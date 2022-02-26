@@ -1,0 +1,796 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon of the blessed sacrament of the Lords Supper; proving that there is therein no proper sacrifice now offered; together with the disapproving of sundry passages in 2. bookes set forth by Dr. Pocklington; the one called Altare Christianum, the other Sunday no Sabbath: formerly printed with licence. By William Bray, Dr. of Divinity. Now published by command.</title>
+            <author>Bray, William, d. 1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77288</idno>
+            <idno type="STC">Wing B4316</idno>
+            <idno type="STC">Thomason E157_8</idno>
+            <idno type="STC">ESTC R22819</idno>
+            <idno type="EEBO-CITATION">99871835</idno>
+            <idno type="PROQUEST">99871835</idno>
+            <idno type="VID">156889</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77288)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156889)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 28:E157[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon of the blessed sacrament of the Lords Supper; proving that there is therein no proper sacrifice now offered; together with the disapproving of sundry passages in 2. bookes set forth by Dr. Pocklington; the one called Altare Christianum, the other Sunday no Sabbath: formerly printed with licence. By William Bray, Dr. of Divinity. Now published by command.</title>
+                  <author>Bray, William, d. 1644.</author>
+               </titleStmt>
+               <extent>[2], 64, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. and R.C. for Henry Seile, and are to be sold at his shop in Fleetstreete, over against St. Dunstans-Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A recantation sermon which the Long Parliament ordered Bray to preach after he had licensed Pocklington's two works. Pocklington's views were extremely high-church.</note>
+                  <note>Probably preached 11 April 1641--cf. p. 50, 59.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pocklington, John. --  Altare Christianum --  Controversial literature --  Early works to 1800.</term>
+               <term>Pocklington, John. --  Sunday no Sabbath --  Controversial literature --  Early works to 1800.</term>
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+               <term>Bible. --  N.T. --  Corinthians, 1st, XI, 26 --  Sermons --  Early works to 1800.</term>
+               <term>Lord's Supper --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Sabbath --  Early works to 1800.</term>
+               <term>Sunday --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156889:1" rendition="simple:additions"/>
+            <p>A SERMON OF THE BLESSED SACRAMENT OF THE LORDS SUPPER; Proving that there is therein no pro<g ref="char:EOLhyphen"/>per ſacrifice now offered;</p>
+            <p>Together with the diſapproving of ſundry paſſages in 2. Bookes ſet forth by D<hi rend="sup">r</hi>. <hi>Pocklington;</hi> the one called <hi>Altare Chriſtianum,</hi> the other <hi>Sunday no Sabbath:</hi>
+            </p>
+            <p>Formerly printed with Licence.</p>
+            <p>
+               <hi>BY</hi> WILLIAM BRAY, Dr. of Divinity.</p>
+            <p>
+               <hi>Now publiſhed by Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T.</hi> and <hi>R. C.</hi> for <hi>Henry Seile,</hi> and are to be ſold at his ſhop in <hi>Fleetſtreete,</hi> over againſt S<hi rend="sup">t</hi>. <hi>Dunſtans</hi>-Church. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:156889:2"/>
+            <pb n="1" facs="tcp:156889:2"/>
+            <head>A SERMON OF THE BLESSED SACRAMENT OF THE LORDS SVPPER.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. 11.26.</hi>
+                  </bibl>
+                  <p>For as oft as ye cate this Bread, and drinke this Cup, yee doe ſhew the Lords Death till hee come.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Prophets are Com<g ref="char:EOLhyphen"/>ments upon the Law in the Old Teſtament, and the Epiſtles upon the Goſpels in the New. My Text is part of the Epiſtles, and it Comments upon that command of our
+<pb n="2" facs="tcp:156889:3"/>Saviour to his Diſciples, <hi>Doe this in Re<g ref="char:EOLhyphen"/>membrance of me.</hi> Which is a part of the Goſpell of the Inſtitution of the Holy Communion. For that command is re<g ref="char:EOLhyphen"/>peated in the 25. Verſe of this Chapter, and then followes my Text immediately, as a Comment upon that Command, a Gloſſe upon that Evangelicall Law; <hi>For as oft as ye eate this Bread, and drinke this Cup, ye doe ſhew the Lords Death till he come.</hi>
+            </p>
+            <p>And if you obſerve it well, my Text as a cleere and full Comment, explaines all the doubts and difficulties of that Text in the Goſpell, <hi>Doe this in remembrance of me.</hi>
+            </p>
+            <p>For <hi>first,</hi> there's no time expreſt when this is to be done, or celebrated; ſo the doubt is, <hi>Firſt</hi> concerning the <hi>frequency of Celebrating,</hi> whether <hi>once, or more then once?</hi> This doubt the Comment cleeres in the firſt words of my Text, <hi>As oft;</hi> ſo it is to be done againe, and againe, and that of<g ref="char:EOLhyphen"/>ten.</p>
+            <p>A <hi>ſecond doubt</hi> is concerning the <hi>du<g ref="char:EOLhyphen"/>ration</hi> of this bleſſed Sacrament: <hi>How
+<pb n="3" facs="tcp:156889:3"/>long?</hi> whether <hi>temporary</hi> or <hi>perpetuall?</hi> this the Comment likewiſe cleeres in the laſt words of my Text, <hi>Till he come;</hi> ſo it is to continue in the Church till our Savi<g ref="char:EOLhyphen"/>ours ſecond comming.</p>
+            <p>
+               <hi>Againe,</hi> it is not cleere in the Goſpell, whither theſe words are to be referr'd, <hi>Do this,</hi> for they are mentioned onely in Saint <hi>Luke</hi>
+               <note n="*" place="margin">22 S. Luke. 19.</note>, and they are mentioned af<g ref="char:EOLhyphen"/>ter the Inſtitution, and Conſecration of the Bread onely, and not of the Cup: ſo the <hi>doubt</hi> here is, Whether they referre to the Bread alone, or to both Bread and Cup? but the Comment here directs you to referre them to both, <hi>For as oft as ye eate this Bread, and drinke this Cup too,</hi> ſaith the Text, ye doe, indicatively, or doe ye, im<g ref="char:EOLhyphen"/>peratively, that is, doe both, and doe this in both.</p>
+            <p>
+               <hi>Beſides,</hi> we doe not underſtand out of the Goſpel, the latitude of this Command, <hi>Doe this,</hi> what it comprehends within it, whether the action of the Receiver onely, or of the Miniſter onely, or both: that is, <hi>Totam Sacramentalem acti<g ref="char:EOLhyphen"/>onem,</hi>
+               <pb n="4" facs="tcp:156889:4"/>the whole Sacramentall action; here's another <hi>doubt.</hi>
+            </p>
+            <p>And here againe we muſt have recourſe to the Comment in my Text for directi<g ref="char:EOLhyphen"/>on, and that expounds it of <hi>both.</hi> Firſt, <hi>Doe this,</hi> that is, <hi>eate this Bread, and drinke this Cup,</hi> here's the <hi>action of the receiver</hi> in ex<g ref="char:EOLhyphen"/>preſſe termes.</p>
+            <p>But that's not all, for what our bleſſed Saviour did by way of Preparation, be<g ref="char:EOLhyphen"/>fore his Diſciples Communicated (I meane not for all Circumſtances, but for Eſſen<g ref="char:EOLhyphen"/>tials) as <hi>taking</hi> and <hi>bleſsing</hi> the Bread, and the Cup, and the <hi>like;</hi> that muſt the Miniſters of Chriſt in all ages alſo doe, by vertue of this Command, <hi>Doe this.</hi> And this is cleere alſo in the Comment of my Text, though not expreſſely as the action of the Receiver, yet by evident conſe<g ref="char:EOLhyphen"/>quence, and that from the <hi>Emphaſis</hi> of the <hi>Greeke Articles</hi> before the Bread and Cup, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>This Bread,</hi> and <hi>this Cup,</hi> for without the action of the Mini<g ref="char:EOLhyphen"/>ſter, in taking, and bleſſing the elements; the Receivers may indeed eate, and drinke
+<pb n="5" facs="tcp:156889:4"/>common bread and wine, but they cannot bee ſo well aſſured, that they eate and drinke <hi>this Sacramentall Bread and Wine,</hi> ſo call'd here by way of Eminence, and ſpeci<g ref="char:EOLhyphen"/>all reference.</p>
+            <p>
+               <hi>Yet farther,</hi> my Text doth cleerely ex<g ref="char:EOLhyphen"/>pound the end of that command of our Saviour, <hi>Doe this in remembrance of me.</hi> Firſt, <hi>in remembrance,</hi> that is, nor a bare and na<g ref="char:EOLhyphen"/>ked remembrance lockt up onely within the cloſet of our owne memories, but ſuch a remembrance, as is withall a <hi>Re<g ref="char:EOLhyphen"/>membrancer</hi> of it, to, and with others, a <hi>Commemoration,</hi> whereby in a joynt Communion together, wee <hi>proclaime,</hi> and <hi>ſhew forth</hi> our Saviours Love. <hi>As oft as ye eate this Bread, and drinke this Cup, ye doe, or ſhall ſhew forth,</hi> ſaith my Text.</p>
+            <p>Laſtly, <hi>in remembrance of me,</hi> ſaith the Com<g ref="char:EOLhyphen"/>mand in the Goſpell; <hi>of me,</hi> that is not ſo much of my Incarnation, life, miracles, doctrine, reſurrection, aſcenſion, as eſpe<g ref="char:EOLhyphen"/>cially and expreſſely of my death, and Paſ<g ref="char:EOLhyphen"/>ſion, <hi>ye doe ſhew the Lords Death,</hi> ſaith the Comment in my Text.</p>
+            <pb n="6" facs="tcp:156889:5"/>
+            <p> I have done with the <hi>For,</hi> in the begin<g ref="char:EOLhyphen"/>ning of my Text, which connects it with the verſe precedent, whereof it is a <hi>com<g ref="char:EOLhyphen"/>ment,</hi> and a <hi>confirmation,</hi> as you ſee.</p>
+            <p>To draw neerer to the Text it ſelfe, wherein you may obſerve theſe two ge<g ref="char:EOLhyphen"/>nerall parts, <hi>Our ſervice to God in the uſe of this bleſſed Sacrament,</hi> in the former part, <hi>As oft as yee eate this Bread and drinke this Cup:</hi> And the <hi>meaning of this ſervice,</hi> or the <hi>Res Sacramenti, the thing ſignifyed by it,</hi> in the latter part, <hi>Ye doe ſhew the Lords Death till he come.</hi>
+               <note place="margin">12. Exod 26.27.</note>
+            </p>
+            <p>In the 12. of <hi>Exodus</hi> God enjoynes the people of <hi>Iſrael,</hi> that when their children ſhould aske them concerning the Paſſe<g ref="char:EOLhyphen"/>over, <hi>What meane you by this Service?</hi> that they ſhould ſay, It is <hi>the Sacrifice of the Lords Paſſeover, who paſſed over the houſes of the children of Iſrael in Egypt, when he ſmote the Egyptians and delivered our houſes.</hi>
+            </p>
+            <p>In the like manner Saint <hi>Paul,</hi> having receiv'd it of the Lord, delivers unto us the <hi>meaning</hi> of this <hi>Service</hi> of the <hi>Evangeli<g ref="char:EOLhyphen"/>call Paſſeover,</hi> It is the <hi>Memoriall of our Savi<g ref="char:EOLhyphen"/>ours
+<pb n="7" facs="tcp:156889:5"/>Sacrifice</hi> offered upon the Croſſe once for all, which we celebrate in remem<g ref="char:EOLhyphen"/>brance of him, <hi>to ſhew forth his</hi> bitter <hi>death</hi> and <hi>Paſsion.</hi>
+            </p>
+            <p>But to proceed, in the <hi>firſt generall part,</hi> which is the <hi>Service</hi> we are to performe to God, in the uſe of this <hi>bleſſed Sacrament,</hi> you have theſe three particulars contai<g ref="char:EOLhyphen"/>ned. 1. <hi>The parts of this Sacrament.</hi> 2. <hi>The Sacramentall actions.</hi> 3. <hi>The circumſtances of thoſe actions.</hi>
+            </p>
+            <p n="1">
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1. <hi>The parts of this Sacrament,</hi> and they are two: <hi>Res terrena, et Res Coeleſtis,</hi> as
+<note n="*" place="margin">
+                  <hi>Iren. lib.</hi> 4. <hi>aduerſus hae<g ref="char:EOLhyphen"/>res. cap.</hi> 34.</note> 
+               <hi>Ire<g ref="char:EOLhyphen"/>naeus</hi> cals them, the <hi>Earthy,</hi> and the <hi>Heaven<g ref="char:EOLhyphen"/>ly</hi> part. The earthy part is here expreſt, <hi>bread and wine;</hi> the heavenly part is the <hi>body and blood of Chriſt,</hi> here imported in the <hi>Articles <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, This Bread,</hi> and <hi>This Cup,</hi> which hath an Emphaticall reference to the verſes immediately precedent, where it is ſaid of the <hi>bread</hi> and <hi>cup</hi> after our Sa<g ref="char:EOLhyphen"/>viours bleſſing them, that <hi>This is my Body which is broken for you, and this Cup is the New Teſtament in my Blood.</hi> This <hi>Bread,</hi> and This
+<pb n="8" facs="tcp:156889:6"/>
+               <hi>Cup</hi> that do <hi>Sacramentally</hi> exhibite the <hi>Bo<g ref="char:EOLhyphen"/>dy,</hi> and <hi>Blood</hi> of our <hi>Saviour,</hi> are here ſpe<g ref="char:EOLhyphen"/>cially deſign'd.</p>
+            <p n="2">2. Ye have <hi>The Sacramentall actions,</hi> and they are in like manner two; <hi>Eating,</hi> and <hi>Drinking;</hi> anſwerable to the parts of the Sacrament, <hi>eating this Bread,</hi> and <hi>drinking this Cup.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Firſt,</hi> wee muſt <hi>Eate:</hi> It is not enough to <hi>purpoſe</hi> or <hi>deſire</hi> to be Gueſts at this <hi>hea<g ref="char:EOLhyphen"/>venly Table;</hi> neither may wee be pre<g ref="char:EOLhyphen"/>ſent onely as <hi>ſpectators</hi> and <hi>beholders,</hi> to <hi>ſee,</hi> and to <hi>gaze,</hi> but we muſt <hi>taſt</hi> and <hi>eat.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> wee muſt <hi>Drinke</hi> the <hi>Cup</hi> too as well as <hi>Eat</hi> the <hi>Bread,</hi> theſe <hi>two</hi> are joyn'd together by <hi>Chriſt</hi> in the <hi>Inſtituti<g ref="char:EOLhyphen"/>on,</hi> and they may not be ſever'd by <hi>Man</hi> without manifeſt impiety.</item>
+            </list>
+            <p n="3">3. The <hi>Circumſtances of the actions</hi> (which make the <hi>third particular</hi> in this <hi>firſt generall</hi>) they are likewiſe <hi>two.</hi>
+            </p>
+            <p>The <hi>firſt</hi> is of <hi>Time: Baptiſme</hi> is to bee <hi>received</hi> once onely; but this <hi>bleſſed Sacrament of the Lords Supper</hi> often, both
+<pb n="9" facs="tcp:156889:6"/>out of a <hi>gratefull obedience</hi> to our <hi>Sa<g ref="char:EOLhyphen"/>viour,</hi> and out of a <hi>carefull regard</hi> of our owne <hi>ſpirituall advantage</hi> by it. <hi>As oft as yee eate this Bread, and drinke this Cup.</hi> It is not barely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>when,</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>how oft ſo<g ref="char:EOLhyphen"/>ever,</hi> which implyes a <hi>frequency.</hi>
+            </p>
+            <p>The ſecond <hi>circumſtance</hi> is of the <hi>Perſons Communicating, Ye.</hi> Firſt, <hi>Ye</hi> in the <hi>plurall number:</hi> for this <hi>Holy Sacrament</hi> is a <hi>Com<g ref="char:EOLhyphen"/>munion,</hi> &amp; may not be <hi>received</hi> by <hi>one alone.</hi>
+            </p>
+            <p>
+               <hi>Ye againe,</hi> that are <hi>Members</hi> of the <hi>Church,</hi> Ye are to <hi>eat</hi> of this <hi>Bread,</hi> and <hi>drinke</hi> of this <hi>Cup.</hi> For he that is not entred into the <hi>my<g ref="char:EOLhyphen"/>ſticall body of the Church</hi> by <hi>Baptiſme,</hi> is no fit <hi>ſubject</hi> as yet to partake of theſe <hi>high,</hi> and <hi>holy</hi> myſteries.</p>
+            <p>And theſe are the <hi>ſeverals</hi> in the <hi>firſt ge<g ref="char:EOLhyphen"/>nerall part</hi> of the <hi>Text,</hi> to wit, <hi>the Service of the Communion.</hi>
+            </p>
+            <p>In the <hi>ſecond generall part,</hi> which is the <hi>Meaning of this ſervice,</hi> ye have three <hi>particu<g ref="char:EOLhyphen"/>lars</hi> likewiſe, each of them ſutable to the three <hi>particulars</hi> in the former part of the <hi>Text;</hi> wherein you have the ſpeciall mea<g ref="char:EOLhyphen"/>ning of each <hi>part</hi> of the <hi>ſervice</hi> declared.</p>
+            <list>
+               <pb n="10" facs="tcp:156889:7"/>
+               <item>
+                  <hi>Firſt,</hi> ye have the meaning of the <hi>Sacramen<g ref="char:EOLhyphen"/>tall bread</hi> and <hi>cup,</hi> to wit, the <hi>death of Chriſt.</hi>
+               </item>
+               <item>
+                  <hi>Secondly,</hi> ye have the meaning of our <hi>eating</hi> this <hi>Bread,</hi> and <hi>drinking</hi> this <hi>Cup,</hi> name<g ref="char:EOLhyphen"/>ly, the <hi>ſhewing forth</hi> of Chriſts death.</item>
+               <item>
+                  <hi>Thirdly,</hi> ye have the meaning of our <hi>often eating</hi> this <hi>Bread,</hi> and <hi>drinking</hi> this <hi>Cup:</hi> to wit, the <hi>perpetuation</hi> of our <hi>Saviours memory,</hi> ſo long as he is <hi>corporally</hi> abſent from <hi>us</hi> here on <hi>Earth,</hi> even till he come againe in his <hi>glorious preſence</hi> to <hi>judge</hi> the <hi>quicke</hi> and the <hi>dead. As oft as yee eat this Bread, and drinke this Cup, yee doe ſhew the Lords Death till be come.</hi>
+               </item>
+            </list>
+            <p>Here's a large field of matter, I can but gather <hi>here</hi> and <hi>there</hi> an <hi>eare of corne</hi> as I paſſe along, without making any long ſtay upon any particular.</p>
+            <p>I begin firſt with the <hi>Parts</hi> of this <hi>Holy Sacrament</hi> (which is the firſt <hi>particular</hi> un<g ref="char:EOLhyphen"/>der the firſt <hi>generall;</hi>) and firſt with the <hi>Earthy part,</hi> or outward <hi>Elements,</hi> which are <hi>Bread,</hi> and <hi>Wine.</hi>
+            </p>
+            <p>The <hi>outward ſenſes</hi> of <hi>Man</hi> are the <hi>win<g ref="char:EOLhyphen"/>dowes</hi>
+               <pb n="11" facs="tcp:156889:7"/>or <hi>gates</hi> of the <hi>ſoule,</hi> nothing enters into the <hi>ſoule</hi> but by them; wee <hi>underſtand</hi> nothing, we <hi>know</hi> nothing, whilſt wee are here in the <hi>body,</hi> but the <hi>eare,</hi> or the <hi>eye,</hi> or ſome one, or more of the <hi>ſenſes</hi> preſent it <hi>firſt</hi> to the <hi>ſoule,</hi> and the more <hi>ſenſes</hi> there are that preſent a matter to the <hi>ſoule,</hi> the <hi>ſoule</hi> underſtands it the <hi>more cleerely,</hi> and be<g ref="char:EOLhyphen"/>leeves it the <hi>more ſtrongly,</hi> even as the ope<g ref="char:EOLhyphen"/>ning of <hi>many windows</hi> lets in the more light into the houſe.</p>
+            <p>God knowes our <hi>mould</hi> in this, and con<g ref="char:EOLhyphen"/>ſiders <hi>it</hi> graciouſly, and accordingly he vouchſafes not onely to <hi>inſtruct</hi> and <hi>per<g ref="char:EOLhyphen"/>ſwade</hi> us by the <hi>Eare,</hi> in the <hi>hearing of his word,</hi> but by the <hi>Eye, Taſte, Touch,</hi> in the outward <hi>elements</hi> of this <hi>Sacrament,</hi> which we may <hi>ſee, handle</hi> and <hi>taſte,</hi> for our further <hi>instructi<g ref="char:EOLhyphen"/>on,</hi> and <hi>confirmation.</hi>
+            </p>
+            <p>If <hi>any man</hi> therefore, preſuming upon I know not what <hi>ſpirituall Revelations,</hi> and <hi>Seraphicall raptures,</hi> ſhall neglect the <hi>hearing of Gods Word</hi> for his <hi>inſtruction;</hi> or if any o<g ref="char:EOLhyphen"/>ther, reſting in the <hi>bare hearing</hi> of the <hi>Eare,</hi> ſhall neglect this <hi>bleſſed Sacrament,</hi> wherein
+<pb n="12" facs="tcp:156889:8"/>God farther manifeſts himſelf to the <hi>faith<g ref="char:EOLhyphen"/>full Soule,</hi> by the <hi>doore</hi> of the reſt of the <hi>ſen<g ref="char:EOLhyphen"/>ſes;</hi> if there be any ſuch <hi>preſuming spirits,</hi> they very much forget themſelves that they are yet in the <hi>body; Yea,</hi> they <hi>forget</hi> God <hi>too,</hi> and his <hi>gracious condeſcent</hi> herein to our <hi>corporeall weakneſſe,</hi> who beſt knows where<g ref="char:EOLhyphen"/>of wee are <hi>made,</hi> and how beſt to <hi>conſider</hi> it.</p>
+            <p>That there is an <hi>earthy</hi> and <hi>ſenſible</hi> part in the <hi>Sacrament</hi> therefore ye <hi>ſee</hi> great rea<g ref="char:EOLhyphen"/>ſon for it; But what is the <hi>reaſon</hi> of the choice of <hi>Bread</hi> and <hi>Wine</hi> to be the <hi>ſen<g ref="char:EOLhyphen"/>ſible part</hi> in this <hi>Sacrament?</hi> Was not the <hi>killing</hi> of the <hi>Paſchall Lamb,</hi> and the <hi>ſtriking</hi> of the <hi>blood</hi> therof upon the <hi>lintell</hi> and <hi>ſide<g ref="char:EOLhyphen"/>poſts</hi> of the <hi>doore,</hi> a more <hi>ſenſible</hi> and <hi>cleere</hi> Reſemblance of the <hi>ſhedding</hi> of the <hi>blood</hi> of the <hi>immaculate Lambe of God?</hi> Why then was the <hi>Paſſeover</hi> abrogated, and <hi>Bread</hi> and <hi>Wine</hi> in the <hi>place</hi> thereof <hi>ſubſtituted,</hi> as the <hi>ſenſible part</hi> of this <hi>Sacrament?</hi>
+            </p>
+            <p>To omit many other moſt proper <hi>Ana<g ref="char:EOLhyphen"/>logies,</hi> and <hi>aptitudes</hi> in the <hi>Elements</hi> of <hi>Bread</hi> and <hi>Wine,</hi> ſerving for this purpoſe; I will
+<pb n="13" facs="tcp:156889:8"/>only give you an <hi>account</hi> of this <hi>change</hi> thus in briefe.</p>
+            <p>The <hi>Old Teſtament</hi> (you know) is <hi>abro<g ref="char:EOLhyphen"/>gated</hi> (I meane in regard of the manner of <hi>Adminiſtration of it,</hi> by the <hi>Leviticall</hi> and <hi>Ceremoniall</hi> Law) and the <hi>New</hi> is now in <hi>force,</hi> the <hi>Teſtator</hi> himſelfe having confir<g ref="char:EOLhyphen"/>med it by his owne <hi>precious Death,</hi> and <hi>Blood-ſhedding;</hi> Hence, the <hi>ſhedding</hi> of the <hi>blood</hi> of the <hi>Paſchall Lambe</hi> is juſtly ceas'd. For after ſo ſoveraigne an <hi>expiation</hi> by the <hi>Blood of Chriſt</hi> himſelfe, no ſhedding of <hi>blood</hi> is now neceſſary,
+<note place="margin">Heb. 9. &amp; 10. ch.</note> as the <hi>Apoſtle</hi> ar<g ref="char:EOLhyphen"/>gues in the Epiſtle to the <hi>Hebrewes:</hi> and hence this <hi>Sacrament</hi> of the <hi>New Teſtament</hi> in the <hi>breaking</hi> of the <hi>Bread,</hi> and <hi>powring</hi> forth of the <hi>Wine</hi> moſt fitly ſucceeds in the <hi>place</hi> thereof, as being the moſt <hi>apt</hi> and <hi>vive</hi> expreſſion of <hi>blood</hi> already <hi>ſhed,</hi> with<g ref="char:EOLhyphen"/>out new <hi>blood-ſhedding.</hi>
+            </p>
+            <p>
+               <hi>Beſides,</hi> though our heavenly <hi>Father</hi> knowes, that even under the <hi>New Teſta<g ref="char:EOLhyphen"/>ment,</hi> we have need of theſe <hi>outward</hi> and <hi>ſenſible</hi> things, and that for the <hi>ſtrengthen<g ref="char:EOLhyphen"/>ing</hi> of our <hi>Faith,</hi> whilſt we are here in the
+<pb n="14" facs="tcp:156889:9"/>
+               <hi>body,</hi> and therefore (as ye read but now) God in his infinite <hi>Wiſedome</hi> and <hi>Goodneſſe</hi> to us, hath inſtituted <hi>Sacraments</hi> for us in the <hi>New Testament,</hi> as well as in the <hi>Old,</hi> which conſiſt of an <hi>outward</hi> and <hi>ſenſible,</hi> as well as an <hi>heavenly</hi> and <hi>ſpirituall</hi> part.</p>
+            <p>Yet there is a very <hi>obſervable difference</hi> of degrees, at leaſt, betwixt the <hi>Sacraments</hi> and <hi>Services</hi> of the <hi>Old</hi> and <hi>New Teſtament,</hi> even in this regard: Thoſe of the <hi>Law</hi> and <hi>Old Teſtament,</hi> were more <hi>ſenſible</hi> and <hi>earthy,</hi> but theſe of the <hi>Gospel</hi> and <hi>New Teſtament,</hi> more <hi>pure</hi> and <hi>ſpirituall;</hi> the <hi>Law</hi> being as it were the <hi>body</hi> to the <hi>Goſpel,</hi> and the <hi>Gospel</hi> being the <hi>ſpirit</hi> and <hi>life</hi> of the <hi>Law.</hi>
+            </p>
+            <p>Thus the <hi>Paſſeover</hi> which was a more <hi>craſſe</hi> and <hi>corporeall Sacrament</hi> is ceas'd alſo together with the <hi>Law,</hi> and in ſtead there<g ref="char:EOLhyphen"/>of, a <hi>Sacrament</hi> more ſutable to the <hi>Goſpel</hi> is inſtituted in <hi>Bread</hi> and <hi>Wine,</hi> which of all <hi>ſenſible ſubſtances</hi> here below, are the moſt <hi>pure,</hi> and ſo the fitteſt to ſet out the <hi>ſpirituall ſervice</hi> of the <hi>Gospel.</hi>
+            </p>
+            <p>The <hi>conſideration</hi> whereof ſhould teach
+<pb n="15" facs="tcp:156889:9"/>us that live under the <hi>Goſpel,</hi> not to reſt our ſelves in any <hi>bodily,</hi> or <hi>outward</hi> obſer<g ref="char:EOLhyphen"/>vations, as if they were the <hi>onely</hi> or <hi>prin<g ref="char:EOLhyphen"/>cipall duty</hi> of the <hi>Goſpel,</hi> but to uſe them as <hi>helpes</hi> onely, the better to <hi>enable</hi> us for the due <hi>performing</hi> of our <hi>ſpirituall ſervices,</hi> which is the <hi>perfection</hi> the <hi>Goſpel</hi> cals us to, and without <hi>which</hi> all other <hi>performances</hi> like a <hi>hungry,</hi> and <hi>barren ſoyle</hi> will yeeld but little ſolid <hi>fruite,</hi> or <hi>comfort</hi> to our ſoules.</p>
+            <p>And ſo I paſſe from the more <hi>ſenſible and earthy part</hi> of this <hi>Sacrament;</hi> to the <hi>spiritu<g ref="char:EOLhyphen"/>all, and heavenly part,</hi> to wit, the <hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt,</hi> which is imported in the <hi>Emphaſis</hi> of the <hi>Articles</hi> here, This <hi>Bread,</hi> and This <hi>Cup.</hi>
+            </p>
+            <p>
+               <hi>Where,</hi> before we come to the <hi>Emphaſis,</hi> and what it imports, give me leave to ob<g ref="char:EOLhyphen"/>ſerve, <hi>Firſt,</hi> that the <hi>Apoſtle</hi> here cals the <hi>Sacramentall</hi> Elements, <hi>Bread</hi> and <hi>Wine,</hi> and that after the words of <hi>Inſtitution,</hi> and <hi>Conſecration. So,</hi> they retaine their nature, and ſubſtance ſtill and remaine <hi>Bread</hi> and <hi>Wine,</hi> even after this great <hi>advancement.</hi>
+            </p>
+            <pb n="16" facs="tcp:156889:10"/>
+            <p> And here you may ſee upon what a <hi>ſan<g ref="char:EOLhyphen"/>dy</hi> foundation the <hi>Church of Rome</hi> hath built that moſt <hi>dangerous</hi> and <hi>deſtructive</hi> doctrine of <hi>Tranſubſtantiation;</hi> Saint <hi>Paul</hi> calls the Elements <hi>Bread</hi> and <hi>Wine,</hi> after conſecration; the <hi>Church of Rome</hi> ſaith, they ceaſe then to be <hi>Bread</hi> and <hi>Wine,</hi> their very <hi>ſubſtance</hi> is converted into the <hi>ſub<g ref="char:EOLhyphen"/>ſtance</hi> of the <hi>naturall Body,</hi> and <hi>Blood</hi> of <hi>Chriſt,</hi> by a new way of their owne <hi>fan<g ref="char:EOLhyphen"/>cying,</hi> which <hi>Biell</hi> a prime Doctor of theirs confeſſes, is not to be found in the <hi>Ca<g ref="char:EOLhyphen"/>non</hi> of the <hi>Bible,</hi>
+               <note n="*" place="margin">
+                  <hi>Biel Lect.</hi> 40. <hi>in Can. Miſſae.</hi>
+               </note> for which they have ſu<g ref="char:EOLhyphen"/>tably invented a new <hi>Name</hi> of <hi>Tranſub<g ref="char:EOLhyphen"/>stantiation.</hi>
+            </p>
+            <p>And I call it a <hi>deſtructive</hi> Doctrine, and that moſt juſtly, and in <hi>many</hi> Re<g ref="char:EOLhyphen"/>gards.</p>
+            <p>For firſt, it deſtroyes the <hi>nature</hi> of the Elements of <hi>Bread,</hi> and <hi>Wine,</hi> by a <hi>totall</hi> Converſion of them into the <hi>ſubſtance</hi> of <hi>Chriſts Body,</hi> and <hi>Blood.</hi>
+            </p>
+            <p>Secondly, it deſtroyes the <hi>nature,</hi> and <hi>properties</hi> of Chriſts <hi>Body,</hi> by aſcribing <hi>Infi<g ref="char:EOLhyphen"/>niteneſſe,</hi> and <hi>Omnipreſence</hi> not onely to the
+<pb n="17" facs="tcp:156889:10"/>
+               <hi>Perſon</hi> of <hi>Chriſt,</hi> but to his <hi>naturall Bo<g ref="char:EOLhyphen"/>dy,</hi> which was borne of the <hi>Bleſſed</hi> Vir<g ref="char:EOLhyphen"/>gin.</p>
+            <p>Thirdly, it deſtroyes the <hi>Peace</hi> of <hi>Chriſtendome,</hi> or at leaſt it hath a great <hi>ſhare</hi> in it, as being <hi>boldly,</hi> and <hi>raſhly</hi> de<g ref="char:EOLhyphen"/>fin'd by the <hi>Church</hi> of <hi>Rome,</hi> and pre<g ref="char:EOLhyphen"/>ſumptuouſly <hi>impos'd</hi> as an <hi>Article</hi> of <hi>Faith,</hi> to be beleev'd upon <hi>Neceſsity</hi> of <hi>Salva<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p>Fourthly, it is notoriouſly knowne, the denyall of it hath deſtroy'd the <hi>Lives</hi> of many of Gods faithfull <hi>Servants,</hi> both <hi>here,</hi> and in <hi>other parts</hi> of the <hi>Chriſtian world.</hi>
+            </p>
+            <p>Fifthly, and <hi>Laſtly,</hi> to adde no more, it's deſtructive of <hi>Piety</hi> and <hi>Devotion</hi> in di<g ref="char:EOLhyphen"/>verting the <hi>Soule</hi> from <hi>devout</hi> and <hi>uſefull</hi> Meditations, and drawing it aſide to <hi>ſubtleties</hi> of wit, and <hi>empty</hi> ſpeculations. To this purpoſe Maſter <hi>Hooker</hi>
+               <note n="*" place="margin">
+                  <hi>Eccles. Poli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. lib.</hi> 5. ſect. 67.</note> excel<g ref="char:EOLhyphen"/>lently obſerves, that the Diſcourſes of the <hi>Romanists</hi> concerning <hi>Tranſubſtantiation</hi> are <hi>hungry</hi> and unpleaſant, full of <hi>tedious</hi> and <hi>irkeſome</hi> labour, heartleſſe, and with<g ref="char:EOLhyphen"/>out
+<pb n="18" facs="tcp:156889:11"/>
+               <hi>Fruite;</hi> whereas the Diſcourſes of <hi>An<g ref="char:EOLhyphen"/>cient,</hi> and <hi>Later</hi> Writers, concerning the <hi>Myſticall</hi> preſence of <hi>Chriſt,</hi> the <hi>uſe, effi<g ref="char:EOLhyphen"/>cacy,</hi> and <hi>benefit</hi> of the Sacrament, are <hi>heavenly</hi> and <hi>devout;</hi> their <hi>words ſweete</hi> as the <hi>Honeycombe,</hi> their <hi>tongues</hi> melodi<g ref="char:EOLhyphen"/>ouſly-tun'd Inſtruments, and their <hi>ſenten<g ref="char:EOLhyphen"/>ces</hi> meere Conſolation, and ioy.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="II"/> The <hi>ſecond thing</hi> which I will obſerve from this part, <hi>is,</hi> that Saint <hi>Paul</hi> doth not call the <hi>Conſecrated</hi> Elements, bare <hi>Bread</hi> and <hi>Wine,</hi> and no more, but <hi>Bread,</hi> and <hi>Wine,</hi> with an <hi>Emphaſis.</hi> This <hi>Bread,</hi> and this <hi>Cup,</hi> of which it was ſaid before in the words of <hi>Christ, This</hi> is my <hi>Body</hi> which is broken for you, and this <hi>Cup</hi> is the <hi>New Teſtament</hi> in my <hi>Blood.</hi>
+            </p>
+            <p>How the <hi>Bread</hi> and <hi>Wine</hi> in this Sacra<g ref="char:EOLhyphen"/>ment are the <hi>Body</hi> and <hi>Blood</hi> of <hi>Chriſt,</hi> is a <hi>great</hi> Myſtery to unfold.</p>
+            <p>Maſter <hi>Calvin</hi> in his fourth <hi>Booke</hi> of <hi>In<g ref="char:EOLhyphen"/>ſtitutions,</hi>
+               <note place="margin">
+                  <hi>Calv. lib.</hi> 4. <hi>In<g ref="char:EOLhyphen"/>ſtit. cap.</hi> 17. <hi>ſect</hi> 7.</note> Cap. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vij. calls it <hi>ſublime my<g ref="char:EOLhyphen"/>sterium, cui nec mens plane cogitando, nec lin<g ref="char:EOLhyphen"/>gua explicando par eſſe poteſt.</hi> A Myſtery
+<pb n="19" facs="tcp:156889:11"/>ſo <hi>ſublime,</hi> that the <hi>minde</hi> of <hi>Man</hi> is not a<g ref="char:EOLhyphen"/>ble to comprehend it, much leſſe the <hi>tongue</hi> to unfold it. <hi>Quod ergo mens noſtra non comprehendit, concipiat fides.</hi> (ſo hee goes on excellently in the ſame Chap<g ref="char:EOLhyphen"/>ter, Sect. 10.) What therefore our <hi>Rea<g ref="char:EOLhyphen"/>ſon</hi> cannot comprehend, let <hi>Faith</hi> con<g ref="char:EOLhyphen"/>ceive. <hi>Christ</hi> hath ſaid it, this is my <hi>Body,</hi> let us therefore beleeve the <hi>Truth</hi> of the thing.</p>
+            <p>But hee hath not ſaid the <hi>manner</hi> how, let us not therefore ſearch into that which is not written. For mine owne part (ſaith the ſame Authour
+<note n="*" place="margin">
+                  <hi>Lib.</hi> 4. <hi>Inſtit. c.</hi> 17. <hi>ſect</hi> 19. <hi>Caeterum his abſurditatibus ſublatis, quic<g ref="char:EOLhyphen"/>quid, ad expri<g ref="char:EOLhyphen"/>mendam veram ſubſtantialem<g ref="char:EOLhyphen"/>que Corporis ac ſauguinis Do<g ref="char:EOLhyphen"/>mini communi<g ref="char:EOLhyphen"/>cationem, quae ſub ſacris Coe<g ref="char:EOLhyphen"/>nae ſymbolis fi<g ref="char:EOLhyphen"/>delibus exhibe<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>tur, facere poteſt libenter recipio: atque ita ut non imaginatione duntaxat, aut ment is intelli<g ref="char:EOLhyphen"/>gentia percipere ſed ut re ipſa frui in alimen<g ref="char:EOLhyphen"/>tum vitae aeter<g ref="char:EOLhyphen"/>nae intelligantur</hi>
+               </note>) <hi>his abſurditatibus ſublatis,</hi> ſet aſide the abſur<g ref="char:EOLhyphen"/>dities which boldly and falſely define the manner of the preſence of <hi>Chriſts bo<g ref="char:EOLhyphen"/>dy</hi> and <hi>blood</hi> in the <hi>Lords Supper,</hi> (Hee meanes <hi>Conſubſtantiation</hi> and <hi>Tranſub<g ref="char:EOLhyphen"/>ſtantiation) whatſoever may be ſaid to ex<g ref="char:EOLhyphen"/>preſſe the Communication of the true, and ſubſtantiall Body, and Blood of the Lord, which are exhibited to the Faithfull, un<g ref="char:EOLhyphen"/>der the holy Symboles of the Supper, J willingly admit; and that in ſuch ſort that this participa<g ref="char:EOLhyphen"/>tion
+<pb n="20" facs="tcp:156889:12"/>may be underſtood, not in Imagination one<g ref="char:EOLhyphen"/>ly, and Apprehenſion of the minde, but a Reall Fruition to nouriſh the body and ſoule to eter<g ref="char:EOLhyphen"/>nall Life.</hi> Thus, that <hi>Reverend</hi> Author, and much more to the ſame purpoſe in that place.</p>
+            <p>With the ſame <hi>wiſedome</hi> and <hi>ſobriety</hi> the <hi>Church of England</hi> ſpeakes of this great Myſtery, ſhee does not (as the <hi>Church of Rome</hi> unjuſtly charges us) exclude <hi>Chriſt</hi> out of the <hi>Sacrament,</hi> and make it a <hi>bare</hi> ſigne, and <hi>Figure</hi> of his <hi>body</hi> and <hi>blood;</hi> ſhee indeed denyes their <hi>Carnall</hi> and <hi>Corporeall</hi> preſence of <hi>Christ</hi> in the <hi>Sa<g ref="char:EOLhyphen"/>crament,</hi> and acknowledges onely an <hi>hea<g ref="char:EOLhyphen"/>venly,</hi> and <hi>ſpirituall</hi> preſence, without any farther defining of the <hi>manner</hi> in particu<g ref="char:EOLhyphen"/>lar.</p>
+            <p>But for the <hi>Truth</hi> of the thing it ſelfe ſhee <hi>beleeves,</hi> and <hi>acknowledges</hi> expreſſe<g ref="char:EOLhyphen"/>ly, That to ſuch as <hi>rightly, worthily,</hi> and <hi>with Faith</hi> receive the ſame, the <hi>Bread</hi> which we <hi>breake,</hi> is a partaking of the <hi>body</hi> of <hi>Chriſt,</hi> and likewiſe the <hi>Cup</hi> of bleſ<g ref="char:EOLhyphen"/>ſing, is a partaking of the <hi>Blood</hi> of <hi>Chriſt,</hi>
+               <pb n="21" facs="tcp:156889:12"/>in the
+<note n="*" place="margin">
+                  <hi>Art.</hi> 28. <hi>relig.</hi>
+               </note> 28. <hi>Article of Religion,</hi> and more fully in the
+<note n="*" place="margin">
+                  <hi>Doctr.</hi> of the Sacraments.</note> 
+               <hi>Catechiſme,</hi> The <hi>body</hi> and <hi>blood</hi> of <hi>Chriſt,</hi> are <hi>verily</hi> and <hi>indeed</hi> taken of the Faithfull in the <hi>Lords Sup<g ref="char:EOLhyphen"/>per.</hi>
+            </p>
+            <p>I goe on to the <hi>Sacramentall</hi> actions, which are likewiſe <hi>two,</hi> anſwerable to the <hi>parts</hi> of this <hi>Sacrament,</hi> to wit, <hi>Ea<g ref="char:EOLhyphen"/>ting</hi> of this <hi>Bread,</hi> and <hi>Drinking</hi> of this <hi>Cup.</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> we muſt <hi>Eate</hi> this <hi>Bread.</hi>
+            </p>
+            <p>There is a fourefold <hi>benefit</hi> which wee receive by our bodily <hi>Eating; Nouriſhment, Society, Delight,</hi> and <hi>Phyſicke;</hi> You know there is a <hi>Meale</hi> for <hi>Nouriſhment,</hi> a <hi>Feaſt</hi> for <hi>Society,</hi> a <hi>Banquet</hi> for <hi>Delight,</hi> and a <hi>Medicine</hi> for <hi>Phyſicke.</hi> This fourefold <hi>be<g ref="char:EOLhyphen"/>nefit</hi> wee receive to our ſoules in a farre more <hi>eminent</hi> manner, by this <hi>Sacramen<g ref="char:EOLhyphen"/>tall</hi> Eating; and for this fourefold <hi>benefits</hi> ſake, we muſt <hi>taſte</hi> and <hi>eate</hi> this Sacrament, and we ſhall <hi>find</hi> it (if we <hi>prepare</hi> our ſelves aright before we <hi>eate</hi> it) to be through the <hi>Grace of Christ;</hi>
+            </p>
+            <pb n="20" facs="tcp:156889:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="21" facs="tcp:156889:13"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="22" facs="tcp:156889:14"/>
+            <p>Firſt, <hi>Coeleſtis Refectio,</hi> an Heavenly <hi>Repast,</hi> to nouriſh us up to <hi>eternall Life.</hi>
+            </p>
+            <p>Secondly, <hi>Sacrum Convivium,</hi> a holy <hi>Feaſt,</hi> to mainetaine the myſticall ſo<g ref="char:EOLhyphen"/>ciety betwixt <hi>Chriſt,</hi> and his <hi>members,</hi> and to be a bond of <hi>Love</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> amongſt Chriſtians.</p>
+            <p>Thirdly, <hi>Spirituale Epulum</hi>
+               <note n="*" place="margin">
+                  <hi>Cal. lib.</hi> 4. <hi>In<g ref="char:EOLhyphen"/>ſtit. c.</hi> 17. <hi>ſect.</hi> 1.</note> a ſpiri<g ref="char:EOLhyphen"/>tuall <hi>Banquet,</hi> for <hi>inward</hi> and <hi>unſpeakeable</hi> Delight.</p>
+            <p>Fourthly and <hi>laſtly,</hi> to be <hi>Medicina ani<g ref="char:EOLhyphen"/>mae</hi> (as
+<note n="*" place="margin">
+                  <hi>Medicina e<g ref="char:EOLhyphen"/>nim ſpiritualis eſt, quae cum re<g ref="char:EOLhyphen"/>verentia degu<g ref="char:EOLhyphen"/>ſtata purificat ſibi devotum. Ambr. tom.</hi> 5. <hi>Oper. in Epiſt. ad Cor. cap.</hi> 11.</note> Saint <hi>Ambroſe</hi> calls it, <hi>i. e.</hi> to them that are <hi>rightly</hi> prepared, and through the <hi>grace of Chriſt,</hi>) Soveraigne <hi>Phyſicke</hi> for the <hi>Soule.</hi>
+            </p>
+            <p>Secondly, wee muſt <hi>Drinke</hi> the Sacra<g ref="char:EOLhyphen"/>mentall <hi>Cup,</hi> as well as <hi>Eate</hi> the <hi>Bread: For as oft as ye eate this Bread, and drinke this Cup too,</hi> ſaith the Text. They are joyned together in the <hi>Text,</hi> and they may not be ſevered in our <hi>Practice.</hi> And that for theſe three <hi>reaſons.</hi>
+            </p>
+            <p>Firſt, <hi>propter Perfectionem Repraeſentati<g ref="char:EOLhyphen"/>onis,</hi> that in this <hi>Sacrament,</hi> there may be
+<pb n="17" facs="tcp:156889:14"/>a perfect <hi>reſemblance</hi> and <hi>repreſentation</hi> of Chriſts Paſſion on the <hi>Croſſe,</hi> for there the <hi>Blood</hi> was ſevered from the <hi>Body,</hi> and therefore here to keepe the <hi>reſemblance</hi> perfect, the <hi>Wine</hi> which reſembles the <hi>Blood,</hi> muſt bee taken ſeverally from the <hi>Bread,</hi> which reſembles the <hi>Body.</hi>
+            </p>
+            <p>Secondly, <hi>propter Perfectionem Refecti<g ref="char:EOLhyphen"/>onis,</hi> That the <hi>Lords Supper</hi> may bee <hi>per<g ref="char:EOLhyphen"/>fect</hi> Nouriſhment to us. For as in <hi>bo<g ref="char:EOLhyphen"/>dily</hi> ſuſtenance, <hi>Meate</hi> doth not <hi>nouriſh</hi> well without <hi>Drinke,</hi> a <hi>Meale</hi> cannot be perfect without <hi>Meate</hi> and <hi>Drinke:</hi> So is it likewiſe in this <hi>spirituall</hi> Refection, wee muſt <hi>Eate,</hi> and <hi>Drinke</hi> too, elſe no perfect <hi>nouriſhment</hi> to the <hi>Soule. <g ref="char:V">Ʋ</g>trum<g ref="char:EOLhyphen"/>que enim eſt de perfectione hujus Sacramenti,</hi> For both <hi>Eating,</hi> and <hi>Drinking</hi> too are required to the perfection of this <hi>Sacra<g ref="char:EOLhyphen"/>ment.</hi> So much <hi>Aquinas</hi>
+               <note n="*" place="margin">
+                  <hi>Aquin. Com. in</hi> 1 Cor. 11.26</note> himſelfe, a prime <hi>Schooleman</hi> amongſt the Papiſts, acknowledges in his <hi>Comment</hi> on my <hi>Text,</hi> and hee gives theſe two forenamed <hi>rea<g ref="char:EOLhyphen"/>ſons,</hi> for his acknowledgement: So that by his owne confeſſion, the <hi>Church of Rome,</hi>
+               <pb n="24" facs="tcp:156889:15"/>however ſhe may be more <hi>indulgent</hi> to her <hi>Clergy,</hi> yet ſhee is very <hi>ſcanty</hi> to the <hi>People,</hi> and halfes out to them but an <hi>imperfect Sa<g ref="char:EOLhyphen"/>crament.</hi>
+            </p>
+            <p>Thirdly, I will adde a <hi>third</hi> and <hi>maine</hi> reaſon for this <hi>Sacramentall</hi> Action, and that is <hi>propter perfectionem Obedientiae,</hi> that our Obedience may be perfect; for you ſee we have Chriſts Command for both <hi>drinking</hi> the <hi>Cup,</hi> as well as <hi>eating</hi> the <hi>Bread</hi> not onely his <hi>Practice,</hi> as in adminiſtring it after <hi>Supper,</hi> but we have his <hi>practice</hi> and <hi>command</hi> too, for <hi>ſub utraque specie,</hi> for the <hi>Communion in both Kindes,</hi> which makes <hi>this</hi> obligatory to us, though not the o<g ref="char:EOLhyphen"/>ther (according to that excellent <hi>rule</hi> of Saint <hi>Cyprian</hi>
+               <note n="*" place="margin">S. <hi>Cypr. lib.</hi> 2 <hi>ep.</hi> 3.</note>) <hi>quae Chriſtus fecit, &amp; docuit ſunt perpetuae obſervationis,</hi> what Chriſt both <hi>did,</hi> and alſo <hi>taught,</hi> or <hi>commanded</hi> muſt be perpetually <hi>obſerved</hi> in the <hi>Church.</hi>
+            </p>
+            <p>The boldneſſe therefore of the <hi>Councell</hi> of <hi>Conſtance</hi> was very great in declaring the adminiſtring of the <hi>Communion in both Kindes,</hi> to the People, to be no more ob<g ref="char:EOLhyphen"/>ligatory to us, then the adminiſtring of it
+<pb n="25" facs="tcp:156889:15"/>after Supper, but their preſumption is much more intolerable in eſtabliſhing the <hi>Romiſh halfe communion,</hi> with a <hi>non ob<g ref="char:EOLhyphen"/>stante in terminis,</hi> to the <hi>Inſtitution</hi> of Chriſt, as you may read in the 13. <hi>Seſsion</hi> of that <hi>Councell</hi>
+               <note n="*" place="margin">
+                  <hi>Tom.</hi> 7. <hi>con<g ref="char:EOLhyphen"/>cil. edit. per Bin.</hi>
+               </note>.</p>
+            <p>I have done with the <hi>Sacramentall</hi> acti<g ref="char:EOLhyphen"/>ons. <hi>The third and laſt particular</hi> in the firſt <hi>generall</hi> concernes the <hi>circumſtances</hi> of theſe actions.</p>
+            <p>And the firſt <hi>circumſtance</hi> is of <hi>Time, As oft. Semel naſcimur, ſaepius vero alimur,</hi> we are borne but once into the world, and ſo we receive <hi>Baptiſme</hi> but once, which is the <hi>Sa<g ref="char:EOLhyphen"/>crament</hi> of our <hi>New-birth,</hi> But we ſtand in need of often <hi>Nouriſhment,</hi> and therefore wee are <hi>often</hi> to receive the <hi>Lords Supper,</hi> which is the <hi>Sacrament</hi> of our <hi>ſpirituall Nouriſhment,</hi> and growth in Chriſt.</p>
+            <p>Accordingly, if wee looke into Church ſtory, wee ſhall finde that the <hi>firſt,</hi> and <hi>beſt</hi> ages of the Church, and as many of the after ages as deſired to conforme to thoſe <hi>firſt</hi> and <hi>beſt,</hi> were all of them for <hi>frequent</hi> Communions.</p>
+            <pb n="16" facs="tcp:156889:16"/>
+            <p> In the <hi>times</hi> of the <hi>Apoſtles,</hi>
+               <note n="*" place="margin">Acts 20.7.</note> we read of a <hi>Communion</hi> once every weeke, upon the <hi>firſt Day</hi> of the weeke, which is the <hi>Lords Day.</hi>
+            </p>
+            <p>In the <hi>times</hi> next to the Apoſtles, Saint <hi>Cyprian</hi>
+               <note n="*" place="margin">Eucheriſtiam quotidie ad ci<g ref="char:EOLhyphen"/>bumſalutis ac<g ref="char:EOLhyphen"/>cipimu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. S. Cyp. de Orat. Domi<g ref="char:EOLhyphen"/>nica.</note> tells us of an <hi>every-dayes</hi> Com<g ref="char:EOLhyphen"/>munion. <hi>Every day</hi> the Chriſtians lookt for <hi>Death,</hi> in thoſe times of violent per<g ref="char:EOLhyphen"/>ſecution, and therfore <hi>every day</hi> they would be provided of this <hi>Viaticum.</hi>
+            </p>
+            <p>In Saint <hi>Auguſtines</hi> time, which was 400 yeares after Chriſt, ſome Churches com<g ref="char:EOLhyphen"/>municated <hi>every day,</hi> ſome onely upon the <hi>Saturday,</hi> and the <hi>Lords day;</hi> others onely upon the <hi>Lords day,</hi> as we read in his 118. <hi>Epiſtle.</hi>
+            </p>
+            <p>
+               <hi>After that,</hi> Devotion decaying, the Com<g ref="char:EOLhyphen"/>munion was adminiſtred generally one<g ref="char:EOLhyphen"/>ly <hi>thrice in the yeare,</hi> at the three great Feaſts, of <hi>Eaſter, Whitſontide,</hi> and <hi>Chriſt, mas;</hi> and of later yeares under <hi>Pope Inno<g ref="char:EOLhyphen"/>cent the Third,</hi> in the <hi>Lateran Councell, pro<g ref="char:EOLhyphen"/>pter iniquitatis abundantiam, refrigeſcente cha<g ref="char:EOLhyphen"/>ritate multorum,</hi> ſo
+<note n="*" place="margin">
+                  <hi>Aquin. Sum. par.</hi> 3. <hi>q.</hi> 80. Art. 10. <hi>ad quintum.</hi>
+               </note> 
+               <hi>Aquinas</hi> himſelfe ren<g ref="char:EOLhyphen"/>ders the reaſon of it, By reaſon of the
+<pb n="21" facs="tcp:156889:16"/>abounding of <hi>Iniquity,</hi> the <hi>Charity</hi> and <hi>De<g ref="char:EOLhyphen"/>votion</hi> of many waxing cold in the <hi>Roman Church,</hi> the people were upon <hi>this, bound</hi> onely to receive <hi>once</hi> in the yeare, to wit, at <hi>Eaſter.</hi>
+            </p>
+            <p>But the <hi>Liturgy of the Church of England,</hi> to reforme us neerer to the <hi>Piety</hi> of the Ancient Church of Chriſt, though it ſets not downe a <hi>generall Rule,</hi> to bind eve<g ref="char:EOLhyphen"/>ry <hi>particular Perſon,</hi> to Communicate more then <hi>Thrice</hi> in the yeare, which was done no doubt upon moſt <hi>prudent</hi> Conſiderations, Becauſe the variety of Caſes, in regard of the <hi>different</hi> underſtan<g ref="char:EOLhyphen"/>dings, and imployments of particular per<g ref="char:EOLhyphen"/>ſons, in regard of the <hi>different</hi> Capaci<g ref="char:EOLhyphen"/>ouſneſſe, and Receipt <hi>of Places</hi> and <hi>Pari<g ref="char:EOLhyphen"/>ſhes,</hi> and divers other Circumſtances con<g ref="char:EOLhyphen"/>ſiderable, make the preſcribing of a <hi>cer<g ref="char:EOLhyphen"/>taine</hi> Rule for <hi>Particulars</hi> in this kinde, fit<g ref="char:EOLhyphen"/>teſt for private <hi>advice</hi> and <hi>reſolution</hi> upon due preparation of every Communicant: Yet in the <hi>Rubricke</hi> after the Commu<g ref="char:EOLhyphen"/>nion, a Communion is enjoyned <hi>every Sunday</hi> at the leaſt, in <hi>Cathedrall,</hi> and <hi>Colle<g ref="char:EOLhyphen"/>giate</hi>
+               <pb n="28" facs="tcp:156889:17"/>Churches, except they have a reaſon<g ref="char:EOLhyphen"/>able cauſe to the contrary. And in the firſt Exhortation before the <hi>Communion,</hi> all the People are moſt pathetically <hi>moved</hi> and <hi>exhorted</hi> to frequent receiving.</p>
+            <p>And I would to God there were no need of ſuch an <hi>Exhortation,</hi> but alas, it's too uſuall for many to make excuſes for abſenting themſelves from the <hi>Lords Ta<g ref="char:EOLhyphen"/>ble,</hi>
+               <note n="*" place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Luke 14.</note> as the unworthy gueſts in the <hi>Gospell</hi> did; I will briefly ſhew the <hi>vanity</hi> of theſe <hi>Excuſes,</hi> and ſo paſſe over this cir<g ref="char:EOLhyphen"/>cumſtance.</p>
+            <p>And I will go no farther for Evidence againſt them, than to the <hi>Grounds</hi> alrea<g ref="char:EOLhyphen"/>dy laid. You have read that this <hi>Bleſ<g ref="char:EOLhyphen"/>ſed Sacrament</hi> is <hi>Heavenly Food,</hi> for our Nouriſhment. A <hi>Holy Feaſt,</hi> to maine<g ref="char:EOLhyphen"/>taine <hi>Love,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> amongſt Chri<g ref="char:EOLhyphen"/>ſtians. <hi>A Spirituall Banquet,</hi> for De<g ref="char:EOLhyphen"/>light and <hi>Soveraigne</hi> Phyſicke for the Soule.</p>
+            <p>
+               <hi>Firſt,</hi> then an <hi>unworthy gueſt</hi> pleades multiplicity of <hi>worldly</hi> buſineſſe, and there<g ref="char:EOLhyphen"/>fore hee cannot come ſo <hi>frequently</hi> to the
+<pb n="29" facs="tcp:156889:17"/>Sacrament; But hee ſhould conſider that this <hi>Sacrament</hi> is <hi>Heavenly Meate</hi> for his Nouriſhment, and as <hi>Meate hin<g ref="char:EOLhyphen"/>ders</hi> not our <hi>Buſineſſe,</hi> ſo neither muſt our <hi>Buſineſſe hinder</hi> our <hi>Meate</hi> in the ſeaſons of it, whether for <hi>Soule</hi> or <hi>Bo<g ref="char:EOLhyphen"/>dy.</hi>
+            </p>
+            <p>A <hi>Second</hi> is not in <hi>charity</hi> with his <hi>Neigh<g ref="char:EOLhyphen"/>bour,</hi> and therefore hee holds himſelfe excus'd, which is <hi>Excuſatio accuſatione dig<g ref="char:EOLhyphen"/>na,</hi> as <hi>Salvian</hi> ſpeakes in a like Caſe, an ag<g ref="char:EOLhyphen"/>gravation, no excuſe, thus to cover one ſinne with another. This man conſiders not, that the Communion is a <hi>Holy Feaſt</hi> inſtituted by our <hi>Bleſſed Saviour</hi> to maine<g ref="char:EOLhyphen"/>taine <hi>Love</hi> and <hi>Amity</hi> amongſt Chriſti<g ref="char:EOLhyphen"/>ans.</p>
+            <p>A <hi>Third</hi> alledges he findes no relliſh in this <hi>Manna,</hi> and this diſcourages him. But Oh! <hi>taste</hi> and <hi>ſee</hi> how gracious the <hi>Lord</hi> is, prepare thy <hi>Taſte</hi> aright before thou commeſt, and thou ſhalt find this <hi>bleſſed Sacrament</hi> to be an <hi>Heavenly Banquet</hi> for Delight, ſuch Delight as is moſt <hi>glorious,</hi> and <hi>unſpeakeable;</hi> in compariſon where<g ref="char:EOLhyphen"/>of
+<pb n="20" facs="tcp:156889:18"/>all that is called <hi>Delight</hi> here below, is but meere <hi>anity</hi> and <hi>vexation of ſpirit</hi>
+               <note n="*" place="margin">
+                  <hi>Hanc Dei gratiam reco<g ref="char:EOLhyphen"/>lens, qui de Sa<g ref="char:EOLhyphen"/>cro caline bibit, amplius ſitit, &amp; ad Deum vi<g ref="char:EOLhyphen"/>vum erigens de<g ref="char:EOLhyphen"/>ſiderium, ita ſingulari fame ille uno appeti<g ref="char:EOLhyphen"/>tu teneturut deinceps fellea peccatorum horreat pocula, &amp; omnis ſapor delectamento<g ref="char:EOLhyphen"/>rum carnalium fit ei quaſiran<g ref="char:EOLhyphen"/>cidum radenſ<g ref="char:EOLhyphen"/>que palatum acutae mordaci<g ref="char:EOLhyphen"/>ta tis acetum.</hi> S. <hi>Cypr. de Coe<g ref="char:EOLhyphen"/>na Domini. ſect.</hi> 17.</note>.</p>
+            <p>A <hi>Fourth</hi> and <hi>laſt</hi> pretends his <hi>manifold ſins,</hi> the ſenſe whereof deterres him from <hi>often</hi> approaches to this <hi>Holy Table.</hi>
+            </p>
+            <p>But if he account <hi>ſinne</hi> a diſeaſe indeed, and deſire unfeignedly to be <hi>cured,</hi> why does he <hi>neglect</hi> the <hi>Remedy?</hi> which is, by <hi>Faith</hi> and <hi>Repentance</hi> to <hi>prepare</hi> himſelfe for this <hi>bleſſed Sacrament.</hi> The whole have no need of the <hi>Phyſitian,</hi> but the <hi>ſicke,</hi> ſaith our <hi>bleſſed Saviour</hi>
+               <note n="*" place="margin">Mat. 9.12.</note>. This man conſiders not the <hi>vertue</hi> of this <hi>Sacrament,</hi> in ſuch as are ſo prepared; That through the <hi>Grace of Chriſt,</hi> it is with theſe preparations a <hi>ſoveraigne</hi> Phyſicke againſt all <hi>Diſeaſes</hi> of the <hi>Soule.</hi>
+            </p>
+            <p>The <hi>ſecond circumſtance</hi> is of the <hi>Perſons, Yee.</hi> Firſt, <hi>Yee,</hi> in the <hi>plurall</hi> number, for this <hi>Holy Sacrament</hi> is a <hi>Communion,</hi> and therefore may not bee received by <hi>one</hi> alone, as the <hi>name</hi> it ſelfe imports. A <hi>Communion,</hi> that is, a Common union of <hi>Miniſters</hi> and <hi>People</hi> together. Thus much <hi>Caſſander,</hi> one that <hi>liv'd,</hi> and <hi>dy'd</hi> in
+<pb n="31" facs="tcp:156889:18"/>the Communion of the <hi>Roman Church,</hi> acknowledges, That it cannot be proper<g ref="char:EOLhyphen"/>ly call'd a Communion unleſſe there be a <hi>Plurality</hi> of <hi>Communicants.</hi>
+               <note n="*" place="margin">
+                  <hi>Communio pro<g ref="char:EOLhyphen"/>prie ditinon p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>test, tiſiplures participent</hi> &amp;c. <hi>Caſſa<g ref="char:cmbAbbrStroke">̄</g> Conſultat. de ſolitarii<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> mi<g ref="char:EOLhyphen"/>ſſis.</hi>
+               </note>
+            </p>
+            <p>The <hi>private Maſſes</hi> therefore in the <hi>Roman Church</hi> where the <hi>Prieſt</hi> Commu<g ref="char:EOLhyphen"/>nicates without the <hi>People,</hi> are rather <hi>ex<g ref="char:EOLhyphen"/>communications</hi> of the <hi>People,</hi> then <hi>Commu<g ref="char:EOLhyphen"/>nions,</hi> as <hi>Goulartius</hi> wittily calls them in his Notes upon Saint <hi>Cyprians</hi> Tract, on the <hi>Lords Prayer.</hi>
+               <note n="*" place="margin">
+                  <hi>Vid. Calvin. lib.</hi> 4 <hi>Inſtit.</hi> c. 18 § 7. <hi>Aditus miſſis privatis est pa<g ref="char:EOLhyphen"/>tefactus, quae Excomunicatio<g ref="char:EOLhyphen"/>nem quandam magis reſervent quam co<g ref="char:cmbAbbrStroke">̄</g>muni<g ref="char:EOLhyphen"/>tatemillam à Domino inſtitu<g ref="char:EOLhyphen"/>tam</hi> &amp;c. <hi>Concil. Trident. Ses.</hi> 22. cap. 6.</note>
+            </p>
+            <p>I am not ignora<g ref="char:cmbAbbrStroke">̄</g>t that the <hi>Councel</hi> of <hi>Trent</hi>
+               <note n="*" place="margin">
+                  <hi>Vid. Calvin. lib.</hi> 4 <hi>Inſtit.</hi> c. 18 § 7. <hi>Aditus miſſis privatis est pa<g ref="char:EOLhyphen"/>tefactus, quae Excomunicatio<g ref="char:EOLhyphen"/>nem quandam magis reſervent quam co<g ref="char:cmbAbbrStroke">̄</g>muni<g ref="char:EOLhyphen"/>tatemillam à Domino inſtitu<g ref="char:EOLhyphen"/>tam</hi> &amp;c. <hi>Concil. Trident. Ses.</hi> 22. cap. 6.</note> wiſhes that the <hi>people</hi> would co<g ref="char:cmbAbbrStroke">̄</g>munic ate alwayes with the <hi>Prieſt,</hi> and acknowledges it to be the more profitable for the peoples ſoules, but this <hi>blanches</hi> the matter only, but <hi>mends</hi> it not, the <hi>private Maſſe</hi> is a bit<g ref="char:EOLhyphen"/>ter <hi>Almond</hi> ſtill for all the <hi>blanching,</hi> ſo long as the <hi>people</hi> are not injoyn'd to Commu<g ref="char:EOLhyphen"/>nicate with the <hi>Prieſt.</hi> Nay, ſo long as the <hi>Priest</hi> is by that <hi>Church</hi> allowd, nay in<g ref="char:EOLhyphen"/>joyn'd to <hi>celebrate,</hi> though without diſtri<g ref="char:EOLhyphen"/>bution to the <hi>people.</hi>
+            </p>
+            <pb n="32" facs="tcp:156889:19"/>
+            <p> 
+               <hi>Ye</hi> again, that are <hi>Members</hi> of the <hi>Church</hi> by <hi>Baptiſme. Ye,</hi> and <hi>Ye</hi> onely muſt eate this <hi>Bread,</hi> and drinke this <hi>Cup.</hi> For the <hi>Grace</hi> which we have by the <hi>Holy Eucha<g ref="char:EOLhyphen"/>rist</hi> doth not <hi>begin,</hi> but <hi>continue</hi> life. No man therefore receaveth this <hi>Sacrament</hi> be<g ref="char:EOLhyphen"/>fore <hi>Baptiſme,</hi> becauſe no <hi>dead</hi> thing is capable of <hi>nouriſhment.</hi> That which <hi>grow<g ref="char:EOLhyphen"/>eth</hi> muſt firſt <hi>live,</hi> ſaith Reverend <hi>Hooker</hi> in his fift <hi>Booke</hi> of <hi>Eccleſiaſticall</hi>
+               <note n="*" place="margin">5 <hi>Lib Ecc le. polit</hi> §. 67. <hi>init.</hi>
+               </note> 
+               <hi>Policie. Beſides</hi> wee muſt firſt bee receav'd as <hi>mem<g ref="char:EOLhyphen"/>bers</hi> into <hi>Chriſts Family,</hi> before we may be admitted to his <hi>Table.</hi> The <hi>Childrens bread</hi> muſt not be given to <hi>ſtrangers.</hi>
+            </p>
+            <p>But I haſten to the ſecond <hi>Generall,</hi> and <hi>main</hi> part of my Text, which is the <hi>Mean<g ref="char:EOLhyphen"/>ing of this ſervice of the Holy Communion,</hi> in the laſt words. <hi>Yee doe ſhew forth the Lords death till hee come.</hi> The principall <hi>verbe</hi> which beares the <hi>waight</hi> of this part of the <hi>Text</hi> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Our <hi>Tranſlation</hi> renders it moſt <hi>fitly, Ye ſhew forth,</hi> which expreſſeth the <hi>latitude</hi> of the word, and the <hi>meaning</hi> of the Sacrament more fully, then
+<pb n="33" facs="tcp:156889:19"/>
+               <hi>Annuntiate</hi> in the <hi>Latine,</hi> which properly is but a <hi>verball</hi> declaration.</p>
+            <p>Now in this <hi>Sacrament</hi> Chriſts death is ſhewne forth three <hi>wayes</hi> eſpecially.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>First,</hi> by way of <hi>Repreſentation,</hi> and <hi>Reſemblance;</hi> ſo <hi>ſignes,</hi> and <hi>figures</hi> of things doe ſhew forth the things that are <hi>repreſen<g ref="char:EOLhyphen"/>ted,</hi> and <hi>reſembled</hi> by them.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+               <hi>Secondly,</hi> by way of <hi>Evidence,</hi> and <hi>Con<g ref="char:EOLhyphen"/>firmation;</hi> ſo the <hi>Testators</hi> ſeale ſet to a <hi>Te<g ref="char:EOLhyphen"/>ſtament,</hi> and his <hi>delivery</hi> of it as his <hi>deed,</hi> doth ſhew it to bee his <hi>Will</hi> and <hi>Teſta<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Thirdly,</hi> and laſtly, by way of <hi>Comme<g ref="char:EOLhyphen"/>moration,</hi> or <hi>memoriall;</hi> ſo a feaſt appointed in remembrance of a Benefactor doth ſhew forth his <hi>benefits</hi> to us. Therefore <hi>Beza</hi> tranſlates the <hi>verbe</hi> here, <hi>Commemo<g ref="char:EOLhyphen"/>ratis,</hi> yee Commemorate <hi>Chriſts death.</hi> Now as oft as wee cate this <hi>Bread,</hi> and drinke this <hi>Cup,</hi> wee doe all theſe wayes
+<pb n="34" facs="tcp:156889:20"/>ſhew forth the Lord's <hi>death</hi> both in the <hi>end,</hi> and <hi>meaning</hi> of the ſervice, and wee ought to doe it in <hi>obedience,</hi> and <hi>duty,</hi> for ſo the <hi>verbe</hi> here uſed may be taken either <hi>Jndicatively, Ye</hi> do, or <hi>Imperatively, Doe yee;</hi> or <hi>Ye</hi> ought to <hi>doe,</hi> and ſo I ſhall follow it.</p>
+            <p>
+               <hi>Firſt,</hi> Then we doe ſhew forth Chriſt's <hi>death</hi> in the Sacrament by way of <hi>repreſen<g ref="char:EOLhyphen"/>tation,</hi> and <hi>reſemblance,</hi> and that not <hi>naked</hi> without attendance, but ſolemnly accom<g ref="char:EOLhyphen"/>pany'd with the cauſes and effects of it: <hi>Chriſt,</hi> and <hi>Chriſt Crucified</hi> is here evidently ſet forth before our eyes.
+<note n="*" place="margin">
+                  <hi>Neque tamen diffitemur quin ita nobis mon<g ref="char:EOLhyphen"/>straturillic Chriſti immola<g ref="char:EOLhyphen"/>tio ut crucis ſpectaculum pe<g ref="char:EOLhyphen"/>ne ob oculos ſta<g ref="char:EOLhyphen"/>tuatur, qualiter in oculis Gala<g ref="char:EOLhyphen"/>torum Chriſtum ſuiſse cruciſix<g ref="char:EOLhyphen"/>um dicit Apoſte. dum illis propo<g ref="char:EOLhyphen"/>ſitacrucis predi<g ref="char:EOLhyphen"/>catio ſuerat Calvin l.</hi> 4. <hi>Jn<g ref="char:EOLhyphen"/>llit.</hi> c. 18 § 11</note>
+            </p>
+            <p>For firſt, The Miniſters ſetting apart the <hi>Bread</hi> and <hi>Wine</hi> upon the <hi>Holy Table,</hi> and Conſecrating them, repreſents God the Fathers <hi>unſpeakeable Love</hi> to <hi>mankind</hi> in ſetting apart, and ſending his <hi>only begot<g ref="char:EOLhyphen"/>ten Son</hi> into the <hi>World</hi> to dye for us, here's the prime <hi>cauſe of his death.</hi>
+            </p>
+            <p>Againe, the <hi>breaking</hi> of the <hi>Bread,</hi> that reſembles the <hi>bruſing</hi> of our Saviours <hi>body,</hi> &amp; the <hi>Agonies</hi> of his ſoule for our <hi>iniquities,</hi>
+               <pb n="35" facs="tcp:156889:20"/>and the <hi>powring forth</hi> of the <hi>Wine,</hi> and the <hi>diſtribution</hi> of the <hi>Bread;</hi> and <hi>Wine</hi> ſeverally and apart, doth moſt aptly reſemble the ſhedding of his moſt <hi>precious bloud,</hi> and the ſevering of it from his <hi>Body</hi> on the <hi>Croſse,</hi> wherein conſiſted the very <hi>Paſ<g ref="char:EOLhyphen"/>ſion.</hi>
+            </p>
+            <p>And laſtly the <hi>Effects,</hi> and <hi>Operations</hi> of <hi>Bread</hi> and <hi>VVine,</hi> upon the <hi>Bodies</hi> of men they doe moſt Lively reſemble the <hi>Effects</hi> and <hi>Operations</hi> of the <hi>death</hi> of <hi>Chriſt,</hi> upon the Soule.</p>
+            <p>To the ſound and healthfull body, <hi>Bread</hi> ſatisfies <hi>Hunger,</hi> and ſtrengthens <hi>life,</hi> And <hi>Wine</hi> makes glad the <hi>heart</hi> of <hi>man,</hi> ſaith the <hi>Pſalmiſt.</hi>
+               <note n="*" place="margin">
+                  <hi>Pſa.</hi> 104.15</note> But on the con<g ref="char:EOLhyphen"/>trary to a foule, or feveriſh <hi>body, wine</hi> is turned into poyfon, and there is nothing ſurfets the <hi>body</hi> more <hi>ſuddenly,</hi> nor more <hi>dangerouſly</hi> then <hi>bread,</hi> according to the <hi>Aphoriſme,</hi>
+               <note place="margin">
+                  <hi>Hippo. Aphor. l.</hi> 7. <hi>Aphor.</hi> 62</note> 
+               <hi>Si quis febricitanti cibum de<g ref="char:EOLhyphen"/>derit; quem ſano exhibet, valenti Robur, aegrotanti morbus fit.</hi> In like manner the
+<pb n="36" facs="tcp:156889:21"/>
+               <hi>death of Chriſt</hi> applyed to the faithfull, and devout <hi>ſoule,</hi> ſatisfies his ſpirituall <hi>hunger,</hi> ſtrengthens the <hi>life</hi> of <hi>grace</hi> in him, fills him with <hi>joy</hi> unſpeakable, and moſt glo<g ref="char:EOLhyphen"/>rious. It is to him the ſavour of <hi>life</hi> unto <hi>life;</hi> but to the unbeleever, and impenitent, that wilfully periſhes, It becomes the ſa<g ref="char:EOLhyphen"/>vour of <hi>death</hi> unto <hi>death.</hi>
+               <note n="*" place="margin">2 <hi>Cor.</hi> 2.16 <hi>vid. S. Cypr de. coena Domini</hi> §. 7.</note>
+            </p>
+            <p>Let our ſoules goe along here and me<g ref="char:EOLhyphen"/>ditate of theſe, and the like <hi>Analogies</hi> in the time of receaving, <hi>Hoc age,</hi> doe this. And this is the firſt ſence of ſhewing forth <hi>Chriſts death</hi> in the <hi>Sacrament.</hi>
+            </p>
+            <p>In this <hi>Sacrament</hi> wee doe not onely make a <hi>bare ſhew</hi> of <hi>Chriſts death</hi> by way of <hi>repreſentation</hi> and <hi>reſemblance,</hi> but we ſhew it forth alſo by way of <hi>evidence,</hi> and <hi>confirmation.</hi> For this Sacramentall <hi>Cup</hi> is the New <hi>Teſtament</hi> in <hi>Christs Bloud,</hi> And all the <hi>promiſes</hi> in the Goſpell which are the <hi>Legacies</hi> of the New <hi>Teſtament,</hi> and Benefits of <hi>Chriſts death,</hi> are in the right uſe of this Sacrament <hi>conveyed,</hi> and aſſur'd to us.</p>
+            <pb n="37" facs="tcp:156889:21"/>
+            <p> In this Sacrament <hi>Chriſt</hi> ſets his <hi>Scale</hi> to his <hi>Teſtament,</hi> and delivers it <hi>particu<g ref="char:EOLhyphen"/>larly</hi> into every worthy <hi>Communicants</hi> hand, and every ſuch <hi>Communicant</hi> re<g ref="char:EOLhyphen"/>ceaves it to his <hi>ſoules comfort</hi> from God, as his <hi>deed</hi> and <hi>gift,</hi> and hereof hee may aſſure himſelfe as verily as hee receaves the outward Elements of <hi>Bread,</hi> and <hi>VVine,</hi> to his bodily <hi>nouriſhment.</hi>
+            </p>
+            <p>And though a fraile, and mortall man be the <hi>Miniſter,</hi> and <hi>Jnſtrument</hi> to con<g ref="char:EOLhyphen"/>vey this <hi>aſſurance</hi> to you, yet what he doth herein, he doth it in the <hi>Name of Chriſt,</hi> by <hi>Commiſsion</hi> from Chriſt, and in Chriſt's <hi>ſtead;</hi> So that it is Chriſt's <hi>Act</hi> and <hi>deed,</hi> and the <hi>Aſſurance</hi> is <hi>Authentically,</hi> and <hi>Origi<g ref="char:EOLhyphen"/>nally</hi> from Him, who is <hi>Jnviſibilis Sacerdos</hi> the Inviſible High Prieſt.
+<note place="margin">
+                  <hi>John</hi> 4 <hi>v.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 2</note> In the 4 of <hi>Saint Iohn,</hi> wee read that <hi>Chriſt</hi> Baptized more then <hi>Iohn,</hi> though <hi>Ieſus</hi> himſelfe <hi>Baptized not</hi> (ſaith the Text) but only His <hi>Diſciples.</hi> If therefore <hi>Baptiſme</hi> be our Saviours <hi>Act, In,</hi> and <hi>by</hi> the Miniſtery of His <hi>Diſciples,</hi> which He never admini<g ref="char:EOLhyphen"/>ſtred by <hi>Himſelfe,</hi> how much more is
+<pb n="38" facs="tcp:156889:22"/>this <hi>Bleſſed Sacrament</hi> His <hi>Act</hi> and <hi>Deed,</hi> by the hands of his Miniſters, which He <hi>Jnſti<g ref="char:EOLhyphen"/>tuted, Conſecrated,</hi> and <hi>Administred</hi> Him<g ref="char:EOLhyphen"/>ſelfe in His own perſon; And as much <hi>Com<g ref="char:EOLhyphen"/>fort,</hi> and <hi>Aſſurance</hi> may Yee reape from it now by the hands of <hi>Christs Miniſters;</hi> as if Ye ſhould receive it from <hi>Chriſt's</hi> owne Bleſſed hands, as the <hi>Diſciples</hi> did.</p>
+            <p>Onely (as yee deſire to enjoy the <hi>Com<g ref="char:EOLhyphen"/>fort</hi> of it) be carefull to obſerve <hi>Theophy<g ref="char:EOLhyphen"/>lact's</hi> Counſell, which he gives upon this very <hi>Ground,</hi> in his <hi>Comment</hi> on my <hi>Text, Eo affectu debetis eſſe imbuti,</hi> Yee ought to be ſo well <hi>diſpoſed</hi> when yee come to <hi>receive</hi> the <hi>Euchariſt,</hi> as yee your-ſelves thinke yee <hi>ſhould,</hi> and <hi>could</hi> have beene, if with the Diſciples yee had enjoy'd the <hi>happy preſence</hi> of our <hi>Saviour</hi> at his <hi>laſt Supper,</hi> and had taken this <hi>Bleſsed Sacrament</hi> at the firſt Inſtitution of it from our <hi>Savi<g ref="char:EOLhyphen"/>ours</hi> owne hands; Yee ought to aſpire after it now that yee may bee affected with the ſame heavenly <hi>Devotion,</hi> and humble <hi>Reverence,</hi> with the ſame fervent Charity, and hearty thankefulnes toward
+<pb n="39" facs="tcp:156889:22"/>our <hi>bleſſed Saviour,</hi> conſidering it is the ſame <hi>Holy Supper,</hi> and no other, and the very ſame <hi>Death</hi> which wee now <hi>ſhew forth,</hi> and unto the <hi>worlds end</hi> as then, at the firſt <hi>Inſtitution,</hi> and <hi>Ordination</hi> of it.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>Thirdly</hi> and <hi>laſtly,</hi> we doe in this <hi>Sa<g ref="char:EOLhyphen"/>crament</hi> ſhew forth <hi>Chriſts Death</hi> by way of <hi>Memoriall,</hi> and <hi>Commemoration: Do this in remembrance of Mee,</hi> ſaith our <hi>Saviour,</hi>
+               <note n="*" place="margin">22. <hi>S.</hi> Luk. 19.</note> And for this end mainly was this <hi>Sacra<g ref="char:EOLhyphen"/>ment</hi> inſtituted by our <hi>bleſſed Saviour,</hi> And from this main end of it, this <hi>Sacrament</hi> is, and hath been in all <hi>Ages</hi> of the <hi>Church,</hi> called by the name of the <hi>Euchariſt;</hi> as be<g ref="char:EOLhyphen"/>ing a <hi>ſacrifice</hi> of <hi>Praiſe</hi> and <hi>Thankſgiving</hi> to God in <hi>Remembrance</hi> of our <hi>Saviours Death</hi> and <hi>Paſsion.</hi> And accordingly our <hi>Church</hi> exhorts, and practices in the <hi>ſer<g ref="char:EOLhyphen"/>vice</hi> of the <hi>Communion.</hi>
+               <note n="*" place="margin">The laſt <hi>Ex<g ref="char:EOLhyphen"/>hortation</hi> before the Communi<g ref="char:EOLhyphen"/>on, and the firſt <hi>Prayer</hi> after the Communion.</note> 
+               <hi>Above all things we muſt here give humble and heartie Thanks to God the Father, the Son, and the Holy Ghoſt, for the Redemption of the World, by the Death and Paſsion of our Saviour Chriſt,
+<pb n="40" facs="tcp:156889:23"/>both God and Man, who did humble him<g ref="char:EOLhyphen"/>ſelfe to the Death upon the Croſſe for us miſe<g ref="char:EOLhyphen"/>rable ſinners. And to the end wee ſhould al<g ref="char:EOLhyphen"/>ways remember the exceeding great Love of our Maſter, and only Saviour thus dying for us; he hath inſtituted, and ordain'd theſe holy Myſteries. To Him therefore, with the Father, and the Holy Ghoſt, Let us give as we are moſt bounden continuall Thanks.</hi>
+            </p>
+            <p>And that this our <hi>Thanſgiving</hi> may be <hi>acceptable</hi> to God, let us firſt conform our<g ref="char:EOLhyphen"/>ſelves to our <hi>bleſſed Saviour</hi> in his <hi>Death</hi> and <hi>Paſsions,</hi> let us <hi>die</hi> to ſin, and <hi>live</hi> to Chriſt; Conſider we therefore the <hi>worke</hi> we have in hand, and the <hi>end</hi> of our com<g ref="char:EOLhyphen"/>ming as often as wee come to Celebrate the <hi>Holy Euchariſt.</hi> We come here to <hi>Com<g ref="char:EOLhyphen"/>memorate</hi> the <hi>Death</hi> and <hi>Paſsion</hi> of our <hi>Sa<g ref="char:EOLhyphen"/>viour</hi> for our ſins, and it would ill be<g ref="char:EOLhyphen"/>ſeem us then to ſolemnize the <hi>Funerals</hi> of our <hi>Lord</hi> and <hi>Maſter,</hi> not having on our <hi>mourning Garments,</hi> without ſuitable <hi>ſor<g ref="char:EOLhyphen"/>row,</hi> and <hi>ſuffering</hi> in our owne ſouls. Should we ſuffer <hi>ſin</hi> to live in us, which
+<pb n="41" facs="tcp:156889:23"/>coſt our Saviour his <hi>Life,</hi> and make that our <hi>Delight</hi> which cauſed his <hi>Death,</hi> and that at the very time when wee come to the <hi>Holy Table</hi> of the <hi>Lord,</hi> to ſhew forth his <hi>Death</hi> with a thankfull <hi>Commemorati<g ref="char:EOLhyphen"/>on:</hi> what elſe is this but to ſtand laughing under our <hi>Saviour's Croſſe,</hi> as it were, to make ourſelves merry with his <hi>Agonies,</hi> and to triumph prophanely in his <hi>bitter ſufferings?</hi> with the wicked Souldiers, it is to <hi>crucifie</hi> him afreſh, and to put him a<g ref="char:EOLhyphen"/>gain to an open <hi>ſhame;</hi> In ſtead of an <hi>ho<g ref="char:EOLhyphen"/>nourable</hi> and <hi>gratefull</hi> ſhewing forth of his <hi>death,</hi> This were to make ourſelves <hi>guiltie</hi> of his <hi>death, Guiltie</hi> of the <hi>bodie</hi> and <hi>blood</hi> of our <hi>Lord,</hi> as the <hi>Apoſtle</hi> ſpeaks.</p>
+            <p>
+               <hi>Wherefore,</hi> that wee may ſhew forth the <hi>Lord's Death</hi> as wee ought; Let us firſt ſet up the <hi>Croſſe</hi> of <hi>Chriſt</hi> in our owne hearts, Let us <hi>faſten</hi> ourſelves to it, and <hi>conforme</hi> ourſelves there to the ſuffe<g ref="char:EOLhyphen"/>rings of our <hi>Head;</hi> Let us willingly ſuf<g ref="char:EOLhyphen"/>fer <hi>ſhame</hi> and <hi>ignominie,</hi> in the due ac<g ref="char:EOLhyphen"/>knowledgment of our <hi>ſins,</hi> Let us ſuffer
+<pb n="42" facs="tcp:156889:24"/>
+               <hi>pain</hi> in a true <hi>ſorrrw,</hi> and <hi>Compunction</hi> of ſoule for them; Let the <hi>Remembrance</hi> of them be as <hi>Thorns</hi> in our <hi>Temples,</hi> and as a <hi>Spear</hi> at our very <hi>hearts.</hi> Let us ſo ſubdue, and chaſten our <hi>Fleſh,</hi> and Revenge our ſelves upon Our ſelves (as the Scripture
+<note n="*" place="margin">2 Cor. 7.11.</note> ſpeaks) by <hi>ſevere</hi> and <hi>ſtrict</hi> Mortification, that the <hi>Old Man</hi> may <hi>languiſh,</hi> and <hi>die</hi> daily in us. And let us ſo <hi>Compoſe</hi> and <hi>ſet<g ref="char:EOLhyphen"/>tle</hi> our <hi>Deſires,</hi> and <hi>Affections,</hi> even as men that are hanging upon the <hi>Croſſe</hi> with our <hi>Bleſſed Saviour,</hi> and ready to depart this <hi>World,</hi> Let us make our <hi>peace</hi> with <hi>God</hi> and all the <hi>World.</hi> Let us wean our ſelves from the <hi>Earth</hi> which wee are lea<g ref="char:EOLhyphen"/>ving, and ſet our <hi>Affections</hi> on <hi>Heaven,</hi> and the <hi>things above,</hi> whither wee are going; Let us no longer make proviſion for the <hi>Fleſh</hi> to fulfill it in the <hi>Lusts</hi> thereof
+<note n="*" place="margin">13. Rom. 14,</note>. But let us put on the <hi>Lord Ieſus Christ,</hi> and thus ſhew forth the <hi>Lords Death</hi> till hee come, And at his Comming wee ſhall by his <hi>Infinite Mercie Live</hi> and <hi>Raigne</hi> with <hi>Him</hi> for ever in the <hi>Kingdome</hi> of his <hi>Glorie.</hi>
+            </p>
+            <pb n="43" facs="tcp:156889:24"/>
+            <p> Thus you have the <hi>Orthodox interpreta<g ref="char:EOLhyphen"/>tion</hi> of theſe words, the true and onely way of ſhewing forth <hi>Chriſt's Death</hi> in this <hi>Sacrament</hi> according to the <hi>Doctrine</hi> of the <hi>Church</hi> of <hi>England,</hi> and of approv'd <hi>Antiquitie.</hi>
+            </p>
+            <p>But the <hi>Church</hi> of <hi>Rome</hi> not content with this way doth in the <hi>Councell</hi> of <hi>Trent,</hi>
+               <note n="*" place="margin">Concil. Trid. Seſſ. 22. Can. 3.</note> denounce an <hi>Anathema</hi> againſt all thoſe that will acknowledge no other <hi>ſacrifice</hi> in the <hi>Eucharist,</hi> then by way of <hi>Remembrance</hi> and <hi>Commemoration</hi> of that one onely true and proper <hi>Sacrifice</hi> of <hi>Chriſt's Bodie</hi> and <hi>Bloud</hi> offer'd upon the the <hi>Altar</hi> of his <hi>Croſſe</hi> once for all. And therfore if you wil believe her, ſhe wil tel you of a more excellent way of ſhewing forth <hi>Chriſt's Death</hi> in the <hi>Sacrament,</hi> to wit, by way of <hi>Iteration,</hi> or a new and daily <hi>Oblation,</hi> of the very Same naturall <hi>Bodie</hi> and <hi>Blood</hi> which was offer'd unto <hi>Death</hi> upon the <hi>Croſſe,</hi> onely with this <hi>Difference</hi> in the Manner of the <hi>Offering,</hi> That <hi>Chriſt's Bodie</hi> upon the <hi>Croſſe</hi> was of<g ref="char:EOLhyphen"/>fer'd
+<pb n="44" facs="tcp:156889:25"/>after a <hi>bloodie,</hi> but here upon their Altars after an <hi>unbloody</hi> Manner. And from this <hi>Fountaine</hi> of Corrupt <hi>Doctrine,</hi> there flow divers <hi>ſtreames</hi> of very dangerous <hi>Errours;</hi> I'le inſtance but in two for our preſent purpoſe.</p>
+            <p>
+               <hi>Firſt,</hi> upon this Ground they define this <hi>Sacriſice</hi> in the <hi>Euchariſt,</hi> to be a <hi>true, proper,</hi> and <hi>propitiatorie</hi> Sacrifice, to be every way equall with the <hi>Sacrifice</hi> of <hi>Chriſt</hi> upon the <hi>Croſſe,</hi> and their <hi>Altars</hi> to be as true and proper <hi>Altars;</hi> which doubt<g ref="char:EOLhyphen"/>leſſe is a very high derogation from <hi>Chriſt</hi> and his <hi>Sacrifice,</hi> let them <hi>mince</hi> and <hi>ex<g ref="char:EOLhyphen"/>cuſe</hi> it the beſt they can.</p>
+            <p>
+               <hi>Secondly,</hi> From hence they teach moſt perilouſly, that the ſame <hi>Adoration</hi> which is due to <hi>Chriſt,</hi> is due to this <hi>Sacrament.</hi> And certainly, to give that <hi>Adoration</hi> which is due to <hi>Chriſt</hi> to any of the <hi>Crea<g ref="char:EOLhyphen"/>tures,</hi> can amount to no leſſe then <hi>Idolatry;</hi> Neither will <hi>Bellarmine's</hi> evaſion, which hee uſes,
+<note n="*" place="margin">
+                  <hi>Lib.</hi> 4 <hi>de Eu<g ref="char:EOLhyphen"/>char. cap</hi> 29. §. <hi>Sed haec mera calumnia eſt, &amp;c.</hi>
+               </note> acquit the <hi>Papiſts</hi> of <hi>Idolatrie</hi>
+               <pb n="45" facs="tcp:156889:25"/>herein, though hee pleads <hi>not Guiltie,</hi> be<g ref="char:EOLhyphen"/>cauſe they hold not the Conſecrated <hi>Bread</hi> and <hi>Wine</hi> to be any longer <hi>Bread</hi> and <hi>Wine,</hi> but to be <hi>tranſubſtantiated</hi> into the very naturall <hi>bodie</hi> and <hi>blood</hi> of <hi>Chriſt;</hi> ſo he pleads, they worſhip not the <hi>bread</hi> but <hi>Chriſt</hi> alone. But a falſe perſwaſion (as we have proved this to be in the <hi>former part</hi> of the Sermon) hath not the <hi>power</hi> either to <hi>nullifie</hi> a <hi>ſin,</hi> or to alter the <hi>ſpecies</hi> of it, either to make a <hi>ſin</hi> no <hi>ſin,</hi> or to be any other then it is in the <hi>kind</hi> of it. The moſt charitable <hi>Conſtruction</hi> that can be made in this <hi>Caſe</hi> is, That perhaps to Men ſo perſwaded, as ſome of the <hi>Romaniſts</hi> are, their <hi>Adoration</hi> of the <hi>Sacrament,</hi> is not in them <hi>wilfull Idolatrie,</hi> yet in it ſelf <hi>Idola<g ref="char:EOLhyphen"/>trie</hi> ſtill for all their <hi>perſwaſion.</hi> However for our ſelves, that by the infinite <hi>bleſsing</hi> of <hi>God</hi> to us are better <hi>taught</hi> and <hi>perſwa<g ref="char:EOLhyphen"/>ded,</hi> for us I ſay not to <hi>renounce</hi> and <hi>deteſt</hi> this Abomination of the <hi>Popiſh Adoration</hi> of the <hi>Sacrament</hi> would be moſt wilfull <hi>Idolatrie,</hi> without the leaſt <hi>cloak</hi> for our <hi>ſin.</hi>
+            </p>
+            <pb n="46" facs="tcp:156889:26"/>
+            <p> For mine owne part, <hi>therefore,</hi> as be<g ref="char:EOLhyphen"/>comes a true <hi>Proteſtant</hi> of the <hi>Reformed Church</hi> of <hi>England,</hi> I doe here ſolemnly proteſt againſt all <hi>Popiſh Errours,</hi> and in ſpeciall againſt the <hi>manifold</hi> and <hi>dangerous errours</hi> in the <hi>Doctrine</hi> and <hi>Practice</hi> of the <hi>Popiſh Maſſe,</hi> againſt their pretended <hi>Obla<g ref="char:EOLhyphen"/>tion</hi> of the very naturall <hi>bodie</hi> and <hi>bloud</hi> of <hi>Chriſt,</hi> againſt their <hi>Propitiatorie ſacrifice</hi> in that intended <hi>Oblation,</hi> and theirs (or any other ſort of men their) true &amp; proper Al<g ref="char:EOLhyphen"/>tars, and againſt their <hi>Idolatrous Adoration</hi> of the <hi>Sacrament,</hi> and acknowledge onely <hi>one true</hi> and <hi>proper Sacrifice</hi> and <hi>Altar,</hi> that is, the <hi>Sacrifice</hi> of <hi>Chriſt</hi> himſelf offer'd up<g ref="char:EOLhyphen"/>pon the <hi>Altar</hi> of the <hi>Croſſe</hi> once for all.</p>
+            <p>And give me leave here alſo ſolemnly to profeſſe my <hi>Opinion</hi> concerning the <hi>Lord's day,</hi> and the <hi>ſanctification</hi> of it.</p>
+            <p>I hold that according to God's holy <hi>will</hi> and <hi>pleaſure</hi> the <hi>Lord's day</hi> ought to be celebrated both in <hi>Publike</hi> and in <hi>Pri<g ref="char:EOLhyphen"/>vate,</hi> in the <hi>Church</hi> and out of the <hi>Church,</hi>
+               <pb n="47" facs="tcp:156889:26"/>in the <hi>Forenoon</hi> and in the <hi>Afternoon,</hi> by hearing the Word of God <hi>read</hi> and <hi>taught</hi> by <hi>Publike Prayer</hi> and <hi>Adminiſtration</hi> of the <hi>Sacraments,</hi> by holy <hi>Meditations, Pri<g ref="char:EOLhyphen"/>vate Prayer, Reading</hi> and <hi>calling</hi> to <hi>Mind</hi> what we have <hi>read</hi> or <hi>heard,</hi> by work's of <hi>Charitie</hi> to our Neighbour and the like.</p>
+            <p>And I hold it to be our <hi>Dutie</hi> in ſpeci<g ref="char:EOLhyphen"/>all that are <hi>God's Miniſters</hi> to <hi>teach, exhort,</hi> and <hi>incourage</hi> the <hi>People</hi> by all means, to ſuch a <hi>ſanctification</hi> of the <hi>Lord's day.</hi> And for mine owne part, I heartily honour a <hi>conſcientious man,</hi> who hath a Carefull <hi>Re<g ref="char:EOLhyphen"/>gard</hi> to yield <hi>Obedience</hi> to all Gods <hi>Com<g ref="char:EOLhyphen"/>mandements</hi> (as far as humane <hi>frailtie</hi> will permit) I honour ſuch a man the more, the more ſtrict hee is in a Religious <hi>Ob<g ref="char:EOLhyphen"/>ſervation</hi> of the <hi>Lord's day.</hi>
+            </p>
+            <p>And further I hold that this great <hi>Holyday</hi> which we Chriſtians now <hi>celebrate</hi> upon the firſt day of the Week though the Scrip<g ref="char:EOLhyphen"/>ture, and ſo the Proper name of it be the <hi>Lord's Day,</hi> yet in regard of the due <hi>ſancti<g ref="char:EOLhyphen"/>fication</hi>
+               <pb n="48" facs="tcp:156889:27"/>of it, in that it ought no leſſe to be kept holy for the <hi>Exerciſe</hi> of the works of <hi>Pietie</hi> and <hi>Charitie</hi> in it, then the <hi>Iewiſh</hi> Sabbath; in this regard by way of <hi>Alluſion,</hi> it is, and may be fitly call'd a <hi>Sabbath,</hi> and the Chriſtian <hi>Sabbath.</hi>
+            </p>
+            <p>
+               <hi>And now</hi> to come to the <hi>End</hi> of my Comming <hi>hither</hi> at this time. The <hi>Right Honourable,</hi> the <hi>Lords Spirituall</hi> and <hi>Tem<g ref="char:EOLhyphen"/>porall</hi> in the high and Honourable Court of <hi>Parliament</hi> now aſſembled, by an <hi>Order</hi> bearing date the twelfth of <hi>March</hi> laſt, have injoyn'd mee to make a <hi>Sermon</hi> in this <hi>Place,</hi> upon this <hi>day,</hi> and in my <hi>Ser<g ref="char:EOLhyphen"/>mon</hi> to make a <hi>confeſsion</hi> of my <hi>errour</hi> in <hi>Licenſing</hi> and <hi>approving</hi> of two Books made by Doctor <hi>Pocklington,</hi> the one cal<g ref="char:EOLhyphen"/>led <hi>Altare Chriſtianum,</hi> the other <hi>Sunday no Sabbath,</hi> which Books, by their <hi>Lordſhips</hi> Cenſure, are juſtly commanded to bee burn'd.</p>
+            <p>And here that I may give the fuller ſatisfa<g ref="char:EOLhyphen"/>ction, I have receiv'd from my <hi>Lord Biſhop
+<pb n="49" facs="tcp:156889:27"/>of Lincolne,</hi> a Copy of ſome mayn <hi>erroneous</hi> and <hi>offenſive paſſages</hi> in the ſaid two <hi>Books,</hi> and the places pointed out in the Margin; upon moſt whereof, their Lordſhips proceeded in their juſt <hi>Cenſure</hi> and <hi>Con<g ref="char:EOLhyphen"/>demnation</hi> of thoſe Books, and all which I am by order from their Lordſhips here to <hi>diſapprove,</hi> as I willingly doe all theſe <hi>paſ<g ref="char:EOLhyphen"/>ſages</hi> following.</p>
+         </div>
+         <div type="assertions">
+            <pb n="50" facs="tcp:156889:28"/>
+            <head>The Aſſertions of ALTARE CHRISTIANVM, diſapproved by Doctor <hi>Bray,</hi> the Licencer of that Book.</head>
+            <head type="sub">
+               <g ref="char:leaf">❧</g> At Saint <hi>Margarets</hi> in <hi>Weſtminster,</hi> the eleventh of <hi>Aprill,</hi> 1641.</head>
+            <div n="1" type="assertion">
+               <head>1.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">T</seg>He verie</hi> Title <hi>is offenſive,</hi>
+                  <note place="margin">Preface.</note> 
+                  <hi>becauſe there is no</hi> Chriſtian Altar <hi>but the</hi> Croſſe <hi>of</hi> Chriſt.</p>
+            </div>
+            <div n="2" type="assertion">
+               <head>2.</head>
+               <p>
+                  <hi>He ſaith in ſcorn,</hi>
+                  <note place="margin">Pag 4.</note> 
+                  <hi>and deteſtation of</hi> Le<g ref="char:EOLhyphen"/>ctures,
+<pb n="51" facs="tcp:156889:28"/>
+                  <hi>that</hi> Maſter Cotton <hi>was never</hi> Par<g ref="char:EOLhyphen"/>ſon, Vicar, <hi>nor</hi> Curate, <hi>but</hi> Lecturer <hi>of</hi> Bo<g ref="char:EOLhyphen"/>ſton, <hi>which is falſe, for he was always</hi> Vicar <hi>of that place, and no</hi> Lecturer.</p>
+            </div>
+            <div n="3" type="assertion">
+               <head>3.</head>
+               <p>
+                  <hi>When he proves out of</hi> Saint Ambroſe, de Sacramentis, lib. 4. cap. 3. <hi>That the</hi> Chri<g ref="char:EOLhyphen"/>ſtians <hi>were more ancient then the</hi> Iews; <hi>To fetch in the Antiquitie of his</hi> Chriſtian Al<g ref="char:EOLhyphen"/>tar, <hi>he leaves out</hi> Saint Ambroſe <hi>his qualifi<g ref="char:EOLhyphen"/>cation:</hi> Sed nos in praedeſtinatione, illi in nomine; <hi>That</hi> Chriſtians <hi>were firſt in</hi> Gods Predeſtination, <hi>but not in</hi> Compellation. <hi>Which is not fairly done; And forgets that</hi> Pag. 32. <hi>he meant to ſay. That</hi> Chriſtianitie <hi>began but in the</hi> Raigne <hi>of</hi> Tiberius.</p>
+            </div>
+            <div n="4" type="assertion">
+               <head>4.</head>
+               <p>
+                  <hi>Hee falſly interprets that place of the</hi> 1 Cor. 9.13.
+<note place="margin">Pag. 6.</note> 
+                  <hi>of the</hi> Prieſts <hi>in the new</hi> Teſta<g ref="char:EOLhyphen"/>ment, <hi>which are to live by the</hi> Altar: <hi>which is ſpoken clearly of the</hi> Leviticall <hi>Prieſt, that cuts up, and divides the</hi> Legall Sacrifices.</p>
+            </div>
+            <div n="5" type="assertion">
+               <pb n="52" facs="tcp:156889:29"/>
+               <head>5.</head>
+               <p>
+                  <hi>He ſaith,</hi>
+                  <note place="margin">Pag 9.</note> 
+                  <hi>That</hi> Chriſtians <hi>are in a miſera<g ref="char:EOLhyphen"/>ble caſe, that think they can offer as good, and effectuall ſpirituall</hi> Sacrifices <hi>to</hi> God, <hi>as the</hi> Prieſt. <hi>Which is falſe and</hi> Popiſh, <hi>for all true</hi> Chriſtians <hi>are</hi> Prieſts <hi>in regard of moſt ſpirituall</hi> Sacrifices. <hi>And he confeſſeth it him<g ref="char:EOLhyphen"/>ſelfe.</hi> Pag. 127.</p>
+            </div>
+            <div n="6" type="assertion">
+               <head>6.</head>
+               <p>
+                  <hi>He teacheth falſly,</hi>
+                  <note place="margin">Pag. 14.15.</note> 
+                  <hi>that in the</hi> Chriſtian Church <hi>there are materiall, and proper; and not</hi> Metaphoricall Altars <hi>only.</hi>
+               </p>
+            </div>
+            <div n="7" type="assertion">
+               <head>7.</head>
+               <p>
+                  <hi>He ſaith,</hi>
+                  <note place="margin">Pag 28.</note> 
+                  <hi>that cloſe and exalted</hi> Pews <hi>are prophane, and were deteſted by the</hi> Church <hi>of</hi> God. <hi>Which is but his fooliſh and fond con<g ref="char:EOLhyphen"/>ceit. And expounds that place of</hi> Heb. 13.10. Wee have an Altar, <hi>of the</hi> Lords Table: <hi>which place is not to be ſo interpreted literally, but of</hi> Chriſt <hi>himſelf, as hee confeſſeth in the next</hi> Page.</p>
+            </div>
+            <div n="8" type="assertion">
+               <pb n="53" facs="tcp:156889:29"/>
+               <head>8.</head>
+               <p>
+                  <hi>He ſaith, we have true, reall, earthly,</hi>
+                  <note place="margin">Pag. 9. <hi>&amp;</hi> 72.</note> 
+                  <hi>and materiall</hi> Altars. <hi>VVhich is falſe.</hi>
+               </p>
+            </div>
+            <div n="9" type="assertion">
+               <head>9.</head>
+               <p>
+                  <hi>Hee quotes a paſſage out of the</hi> Letter,
+<note place="margin">Pag 30.</note> 
+                  <hi>which is not there, but in Biſhop</hi> Iewels <hi>works: to prove there were no materiall</hi> Churches <hi>in the</hi> Primitive <hi>times. VVhich is but a baſe and unworthy dealing, and great Arrogancie for a private man to confute a booke, recommended by authoritie to all the</hi> Churches <hi>of</hi> England, <hi>and to ſay, it main<g ref="char:EOLhyphen"/>tains a falſhood.</hi> Pag. 34.</p>
+            </div>
+            <div n="10" type="assertion">
+               <head>10.</head>
+               <p>
+                  <hi>He ſaith, that we were miſerable,</hi>
+                  <note place="margin">Pag. 50.</note> 
+                  <hi>if the now</hi> Archbiſhop <hi>of</hi> Canterbury <hi>could not derive his</hi> Succeſſion <hi>from</hi> S. Auſtin (<hi>meaning</hi> Au<g ref="char:EOLhyphen"/>ſtin <hi>the</hi> Monk) Auſtin <hi>from</hi> Gregory, <hi>and</hi> Gregory <hi>from</hi> S. Peter. <hi>And a little before he ſaith, that if in</hi> Cathedrall Churches <hi>there were no materiall</hi> Chaires <hi>for</hi> Biſhops <hi>to be Inthronized, there were no</hi> Succeſſion <hi>in
+<pb n="54" facs="tcp:156889:30"/>Faith and Doctrine from the</hi> Apoſtles. <hi>Which is both falſe, and fooliſh.</hi>
+               </p>
+            </div>
+            <div n="11" type="assertion">
+               <head>11.</head>
+               <p>
+                  <hi>He broacheth two points of</hi> Popery,
+<note place="margin">Pag. 65.</note> 
+                  <hi>not maintained by the</hi> Church <hi>of</hi> England, <hi>Firſt, That nothing in</hi> Baptiſme <hi>is rightly done, un<g ref="char:EOLhyphen"/>leſſe we adde thereunto the ſigne of the</hi> Croſs. <hi>Secondly, that men are not full</hi> Chriſtians <hi>un<g ref="char:EOLhyphen"/>leſſe they be</hi> Confirmed <hi>by the</hi> Biſhop, <hi>VVhich is</hi> Popiſh <hi>and</hi> erroneous.</p>
+            </div>
+            <div n="12" type="assertion">
+               <head>12.</head>
+               <p>
+                  <hi>He ſcandalizeth our</hi> Church <hi>as having</hi> Le<g ref="char:EOLhyphen"/>cturers,
+<note place="margin">Pag 71.</note> 
+                  <hi>which never take Orders: and falſly quotes the</hi> Letter, <hi>for that which ſpeaks not a word</hi> Pro <hi>or</hi> Con. <hi>in that Matter.</hi>
+               </p>
+            </div>
+            <div n="13" type="assertion">
+               <head>13.</head>
+               <p>
+                  <hi>Hee wreſts</hi> Saint Cyprian <hi>and all Anti<g ref="char:EOLhyphen"/>quitie to ſay,</hi>
+                  <note place="margin">Pag. 75.76, &amp; 174</note> 
+                  <hi>that where there is no</hi> Altar, <hi>there is no</hi> Euchariſt, <hi>or</hi> Communion. <hi>VVhich in it ſelf is altogether untrue.</hi>
+               </p>
+            </div>
+            <div n="14" type="assertion">
+               <pb n="55" facs="tcp:156889:30"/>
+               <head>14.</head>
+               <p>
+                  <hi>Hee cals his</hi> Altar <hi>the</hi> Holy <hi>of</hi> Holyes,
+<note place="margin">Pag. 83.</note> 
+                  <hi>which ſmels of</hi> Iudaiſme.</p>
+            </div>
+            <div n="15" type="assertion">
+               <head>15.</head>
+               <p>
+                  <hi>He boldly corrects the</hi> Rubrick,
+<note place="margin">Pag. 86.</note> 
+                  <hi>that ap<g ref="char:EOLhyphen"/>points the</hi> Communion Table <hi>to ſtand in the</hi> Chancell, <hi>or bodie of the</hi> Church. <hi>And denies a power to the</hi> Ordinary <hi>to place it in the body of the</hi> Church. <hi>VVhich is a high of<g ref="char:EOLhyphen"/>fence againſt the</hi> Rubrick, <hi>and the</hi> Act <hi>of</hi> Parliament <hi>that confirmes the ſame.</hi>
+               </p>
+            </div>
+            <div n="16" type="assertion">
+               <head>16.</head>
+               <p>
+                  <hi>Hee ſaith,</hi>
+                  <note place="margin">Pag. 89.</note> 
+                  <hi>that</hi> Biſhop Iewels <hi>works a<g ref="char:EOLhyphen"/>gainſt</hi> Harding <hi>differ from the</hi> Articles, <hi>and</hi> Canons <hi>of our</hi> Church. <hi>Which is ſcanda<g ref="char:EOLhyphen"/>lous, eſpecially when it is not ſhewed where<g ref="char:EOLhyphen"/>in.</hi>
+               </p>
+            </div>
+            <div n="17" type="assertion">
+               <head>17.</head>
+               <p>
+                  <hi>Thoſe VVriters,</hi>
+                  <note place="margin">Pag. 114.</note> 
+                  <hi>who atteſt the truth of the</hi> Reformed Religion, <hi>this man averres to be called by</hi> Illyricus <hi>the VVitneſſes of the truth, with reproach of truth, and of</hi> Chriſtian
+<pb n="56" facs="tcp:156889:31"/>Religion. <hi>VVhich is neare unto blaſphemie. And in the ſame place,</hi> Iohn Fox <hi>his</hi> Calen<g ref="char:EOLhyphen"/>dar, <hi>or an</hi> Extract <hi>thereof is ſaid to be full of</hi> Traitours, Murtherers, Rebels, <hi>and</hi> Here<g ref="char:EOLhyphen"/>ticks; <hi>And no better</hi> Saints, <hi>then</hi> Penty, Hacket, <hi>and</hi> Legat. <hi>VVhich is a baſe and un<g ref="char:EOLhyphen"/>worthy expreſsion. And whoſe</hi> Martyrs <hi>hee points at, you may ſee,</hi> Pag. 135.</p>
+            </div>
+            <div n="18" type="assertion">
+               <head>18.</head>
+               <p>
+                  <hi>He ſaith,</hi>
+                  <note place="margin">Pag. 120 121. &amp; 169.</note> 
+                  <hi>the</hi> Biſhop <hi>of</hi> Lincolne <hi>did order the ſetting of the</hi> Lords Table <hi>Altar<g ref="char:EOLhyphen"/>wiſe. Which that</hi> Biſhop <hi>utterly denies.</hi>
+               </p>
+            </div>
+            <div n="19" type="assertion">
+               <head>19.</head>
+               <p>
+                  <hi>He ſaith untruly,</hi>
+                  <note place="margin">Pag. 136.</note> 
+                  <hi>that if there be no</hi> Chri<g ref="char:EOLhyphen"/>ſtian Altar <hi>in our</hi> Church (<hi>as there is none in our</hi> Liturgie <hi>or</hi> Canons) <hi>wee have neither</hi> Prieſt, <hi>nor</hi> Deacon <hi>in our</hi> Church: <hi>no</hi> Li<g ref="char:EOLhyphen"/>turgie, <hi>nor</hi> Act <hi>of</hi> Parliament <hi>that con<g ref="char:EOLhyphen"/>firmes it. VVhich is a wilde and inconſequent Aſſertion.</hi>
+               </p>
+            </div>
+            <div n="20" type="assertion">
+               <head>20.</head>
+               <p>
+                  <hi>Our</hi> Saviours <hi>inſtitution (ſaith he) of the</hi>
+                  <note place="margin">Pag 162.163.</note>
+                  <pb n="57" facs="tcp:156889:31"/>Sacrament <hi>of the</hi> Lords Supper, <hi>at a</hi> Table, <hi>doth not binde us to the name of a</hi> Table. <hi>VVhich is a bold Aſſertion: thought not ſo bold as that which followeth. That</hi> Saint Paul <hi>croſſed the order in that</hi> Sacrament <hi>uſed by</hi> Chriſt. <hi>Which tends to blaſphemy, if we re<g ref="char:EOLhyphen"/>member by what</hi> Spirit Saint <hi>Paul was gui<g ref="char:EOLhyphen"/>ded.</hi>
+               </p>
+            </div>
+            <div n="21" type="assertion">
+               <head>21.</head>
+               <p>
+                  <hi>He ſaith boldly,</hi>
+                  <note place="margin">Pag. 165.166.</note> 
+                  <hi>that howſoever our</hi> Savi<g ref="char:EOLhyphen"/>our <hi>calls it a</hi> Table, Luke 22.21. <hi>Yet was it rather a floore wherein he inſtituted the</hi> Sup<g ref="char:EOLhyphen"/>per.</p>
+            </div>
+            <div n="22" type="assertion">
+               <head>22.</head>
+               <p>
+                  <hi>Hee ſaith,</hi>
+                  <note place="margin">Pag. 171.</note> Tithes <hi>cannot be alienated from</hi> Spirituall perſons. <hi>Which is againſt our</hi> Laws, <hi>and ſuch</hi> Acts <hi>of</hi> Parliament <hi>as have made them</hi> Lay Fees.</p>
+            </div>
+            <div n="23" type="assertion">
+               <head>23.</head>
+               <p>Lecturers (ſaith hee) <hi>ſet up in good</hi> Towns,
+<note place="margin">Pag. 172.</note> 
+                  <hi>be but a dull device of a foggie brain and willing blunderer, which light upon it in a Miſt. VVhich is an expreſsion of a dull and irreligious brain.</hi>
+               </p>
+            </div>
+            <div n="24" type="assertion">
+               <pb n="58" facs="tcp:156889:32"/>
+               <head>24.</head>
+               <p>
+                  <hi>He ſaith blaſphemouſly,</hi>
+                  <note place="margin">Pag 178.</note> 
+                  <hi>that the holy</hi> Scri<g ref="char:EOLhyphen"/>pture, <hi>the holy</hi> Sacraments, <hi>the Articles of our</hi> Creed, <hi>and</hi> Petitions <hi>of the</hi> Lord's Prayer, <hi>have no</hi> Rationes cogentes <hi>or forci<g ref="char:EOLhyphen"/>ble inducement, to cauſe men to aſſent unto them, although they are immediatly grounded upon divine Authority, which at the first glance captivates the understanding of all true believers. And in his</hi> 190 Page <hi>he ſaith, that all</hi> Canons <hi>made in</hi> Convocations <hi>are to be obeyed, though they yield no reaſon at all to en<g ref="char:EOLhyphen"/>force their obedience. Which kind of</hi> Do<g ref="char:EOLhyphen"/>ctrine <hi>hath of late done our</hi> Church <hi>no good.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="assertions">
+            <pb n="59" facs="tcp:156889:32"/>
+            <head>Aſſertions out of <hi>SVNDAY NO SABBATH;</hi> diſapproved by Doctor <hi>Bray,</hi> at S. <hi>Margarets</hi> in <hi>Weſtminster,</hi> the eleventh of <hi>Aprill,</hi> 1641.</head>
+            <div n="1" type="assertion">
+               <head>1.</head>
+               <p>
+                  <hi>HE ſaith,</hi>
+                  <note place="margin">Pag 3.</note> 
+                  <hi>that</hi> Saint Paul <hi>preaching till Midnight, in a roome where men did eat and drink, was out of order. Which is much boldneſſe.</hi>
+               </p>
+            </div>
+            <div n="2" type="assertion">
+               <head>2.</head>
+               <p>
+                  <hi>He ſaith,</hi>
+                  <note place="margin">Pag. 6.</note> Knox <hi>and</hi> Whittingham <hi>were the firſt that called the</hi> Lords Day, <hi>the</hi> Sab<g ref="char:EOLhyphen"/>bath Day. <hi>Which is falſe. For it is called the</hi> Sabbath Day, <hi>and our</hi> Sabbath, <hi>under King</hi>
+                  <note n="a" place="margin">Neceſſary Doctrine, 1537.</note> Henry the Eighth, <hi>King</hi>
+                  <note n="b" place="margin">K. <hi>Edwards</hi> Catechiſme, joyned to the Articles, 1553.</note> Edward,
+<note n="c" place="margin">Profitable &amp; neceſſary Do<g ref="char:EOLhyphen"/>ctrine by Bi<g ref="char:EOLhyphen"/>ſhop <hi>Boner.</hi>
+                  </note> 
+                  <hi>Queene</hi> Mary: <hi>and</hi>
+                  <note n="d" place="margin">Homily of place and time of Prayer.</note> 
+                  <hi>Queene</hi> Eliſabet, <hi>in writings printed and ſet forth by publique Authority under all theſe</hi> Princes.</p>
+            </div>
+            <div n="3" type="assertion">
+               <pb n="60" facs="tcp:156889:33"/>
+               <head>3.</head>
+               <p>
+                  <hi>He ſaith,</hi>
+                  <note place="margin">Pag. 19.</note> 
+                  <hi>the name of</hi> Sabbath Day <hi>is held up by ſome in our</hi> Church, <hi>as the great</hi> Diana <hi>of the</hi> Epheſians, <hi>that ſtalking be<g ref="char:EOLhyphen"/>hind it, they may ſhoot againſt the</hi> Service <hi>appointed for the</hi> Lords Day. <hi>Not being able to reſolve, whether the ſin be greater to bowle, ſhoot, or dance on their</hi> Sabbath, <hi>then to com<g ref="char:EOLhyphen"/>mit</hi> Murther: <hi>or the father to cut the throat of his own</hi> Child. <hi>Which is a harſh expreſsi<g ref="char:EOLhyphen"/>on, and ſcandalous to our</hi> Church.</p>
+            </div>
+            <div n="4" type="assertion">
+               <head>4.</head>
+               <p>
+                  <hi>He calls an afternoon</hi> Sermon <hi>on the</hi> Lord's Day,
+<note place="margin">Pag 28.29.</note> 
+                  <hi>a fruitleſs and diſobedient exer<g ref="char:EOLhyphen"/>ciſe of their afternoon talent, ſpringing from the wilfull conceitedneſs of thoſe that affect it. And that wee are not bound to imitate either</hi> Saint Peters <hi>or</hi> Saint Baſils <hi>example in prea<g ref="char:EOLhyphen"/>ching in an afternoon, nor</hi> Saint Pauls <hi>in preaching in an upper Chamber. Which as we are not bound to imitate, ſo are we not bound to the Contrary. So that theſe expreſsions had bin better ſpared.</hi>
+               </p>
+            </div>
+            <div n="5" type="assertion">
+               <pb n="61" facs="tcp:156889:33"/>
+               <head>5.</head>
+               <p>
+                  <hi>He makes ſtrange interpretations of the</hi> Greek <hi>text, to ſerve his own turn,</hi>
+                  <note place="margin">Pag. 29.30.</note> 
+                  <hi>and the new<g ref="char:EOLhyphen"/>fanglednes of the times. As preſsing</hi> Saint Pauls <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> (<hi>which is to diſpute</hi> Dialecti<g ref="char:EOLhyphen"/>cally) <hi>to a</hi> Catechizing <hi>by queſtion &amp; anſwer only. And</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>(which ſignifies nothing elſe, but to make a ſpeech or hold diſcourſe) to</hi> Saint Pauls <hi>reading of a</hi> Homily, <hi>penned for him, either by all the</hi> Apoſtles, <hi>or by</hi> Saint Peter. <hi>As though</hi> Saint Paul (<hi>filled as he was with the</hi> Holy Ghoſt, <hi>and bred up at the feet of</hi> Gamaliel) <hi>could not have held a diſ<g ref="char:EOLhyphen"/>courſe in a private Family at</hi> Troas, <hi>but he muſt have read it out of a Book. And in imita<g ref="char:EOLhyphen"/>tion hereof, he would have all</hi> Biſhops <hi>like<g ref="char:EOLhyphen"/>wiſe to read</hi> Homilies <hi>to the people,</hi> pag. 31. <hi>And concludes reading to be the moſt powerful kind of preaching, to perfect the men of</hi> God, <hi>and to make them</hi> Martyrs, pag. 32.</p>
+            </div>
+            <div n="6" type="assertion">
+               <head>6.</head>
+               <p>
+                  <hi>He makes all ſuch as omit the</hi> Letany <hi>on the</hi> Lord's Day,
+<note place="margin">Pag. 35.36.</note> (<hi>by which he ſaith the</hi> Eng<g ref="char:EOLhyphen"/>liſh
+<pb n="62" facs="tcp:156889:34"/>Nation <hi>was converted</hi>) <hi>all ſuch as ex<g ref="char:EOLhyphen"/>pound the</hi> Scripture <hi>otherwiſe then out of the ancient</hi> Fathers: <hi>all ſuch as uſe long Prayers before</hi> Sermons, <hi>or often repeat</hi> Lord, Lord: <hi>and ſuch as ſpeake againſt</hi> paſtimes <hi>on the</hi> Lord's Day, <hi>breakers of the</hi> Sabbath.</p>
+            </div>
+            <div n="7" type="assertion">
+               <head>7.</head>
+               <p>
+                  <hi>He ſaith,</hi>
+                  <note place="margin">Pag. 46.</note> 
+                  <hi>that if we do not only</hi> Bend, <hi>or</hi> Bow <hi>our body to his bleſsed</hi> Board <hi>or holy</hi> Altar, <hi>but fall flat on our faces before his foot<g ref="char:EOLhyphen"/>ſtool ſo ſoon as ever we approach in ſight thereof: the</hi> Patriarchs, Apoſtles, <hi>and</hi> bleſſed Martyrs <hi>would be glad to ſee their</hi> Lord <hi>ſo honoured. Which he ſaith without any</hi> Law, Rubrick, <hi>or</hi> Canon <hi>of the</hi> Church.</p>
+               <p>And now in all humble <hi>Obedience</hi> to ſo high <hi>Authoritie,</hi> and in <hi>Conformitie</hi> to their Lordſhips <hi>juſt Cenſure</hi> of theſe <hi>Books,</hi> and of <hi>me</hi> to this publike <hi>acknowledgment,</hi> I doe here ingenuouſly <hi>confeſſe</hi> my hearty <hi>ſorrow</hi> for that all theſe erroneous and of<g ref="char:EOLhyphen"/>fenſive <hi>paſsages</hi> have ſlipt mee and paſs't my hand, I acknowledge that I have too
+<pb n="63" facs="tcp:156889:34"/>much rely'd upon the ſeniority of the <hi>Au<g ref="char:EOLhyphen"/>thour,</hi> who was an <hi>ancient Divine</hi> in the <hi>Vniverſitie,</hi> and had been <hi>Preſident</hi> of two <hi>Colledges</hi> ſucceſſively when I was firſt ad<g ref="char:EOLhyphen"/>mitted <hi>there;</hi> upon which <hi>Conſiderations</hi> I took not that due <hi>Care</hi> and <hi>Caution</hi> in the <hi>peruſal</hi> and <hi>licenſing</hi> of theſe Books which I ought to have taken in a matter of ſo great <hi>importance.</hi> And therefore I do here <hi>ſincerely</hi> and <hi>ſorrowfully</hi> before many <hi>Ho<g ref="char:EOLhyphen"/>nourable Witneſses</hi> acknowledge my great <hi>Errour</hi> and <hi>Offence</hi> in the licenſing of theſe two Books, and doe alſo in all <hi>hu<g ref="char:EOLhyphen"/>mility,</hi> taking the former <hi>paſſages</hi> to conſi<g ref="char:EOLhyphen"/>deration, acknowledge the <hi>juſtneſſe</hi> of their <hi>Lordſhips Cenſure</hi> of thoſe <hi>Books,</hi> and of <hi>me</hi> to this <hi>diſapproving</hi> of the ſame.</p>
+               <p>And what other <hi>Books</hi> of like <hi>Nature</hi> or upon like <hi>Conſiderations,</hi> or rather for want of <hi>Conſideration,</hi> may have paſs'd my <hi>hand.</hi> Give me leave here alſo to <hi>profeſſe</hi> my <hi>hearty ſorrow</hi> for my <hi>Errour</hi> in paſſing any of them.</p>
+               <pb n="64" facs="tcp:156889:35"/>
+               <p> And ſo I humbly deſire you, to con<g ref="char:EOLhyphen"/>ceive of <hi>me</hi> as I am by Gods Grace, and deſire ever to be, an <hi>Enemy</hi> both to <hi>Super<g ref="char:EOLhyphen"/>ſtition</hi> &amp; <hi>Prophanes,</hi> a hater of <hi>Idolatry,</hi> and an honourer of <hi>Piety</hi> and <hi>Devotion,</hi> eſpe<g ref="char:EOLhyphen"/>cially practiſed on the <hi>Lord's Day.</hi> In ſum, a dutifull Sonne of the <hi>Reformed Church</hi> of <hi>Chriſt,</hi> here in <hi>England,</hi> by <hi>Law</hi> eſtabliſh't, to the which I ſhall by <hi>Gods Grace</hi> with all due <hi>Care</hi> and <hi>Circumſpection</hi> conforme my ſelf; and which God of his <hi>infinite mercy</hi> long preſerve.</p>
+               <p>I conclude, moſt humbly beſeeching God to forgive us all our <hi>overſights</hi> and <hi>Errours,</hi> and to give us all of his <hi>Grace</hi> that wee may ſincerely follow thoſe things that make for the advancement of <hi>Truth</hi> and <hi>Peace,</hi> and the edifying of our ſelves in <hi>Faith</hi> and <hi>Love,</hi> that we may walke in the <hi>good old way</hi> without <hi>Innovations,</hi> care<g ref="char:EOLhyphen"/>fully avoiding all <hi>Extreams,</hi> without turn<g ref="char:EOLhyphen"/>ing <hi>aſide</hi> either to the <hi>right hand</hi> or the <hi>left,</hi> that ſo in the end wee may finde reſt to our <hi>ſouls,</hi> which GOD grant, &amp;c.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+            <pb facs="tcp:156889:35"/>
+         </div>
+      </body>
+   </text>
+</TEI>
